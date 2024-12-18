@@ -1,0 +1,4226 @@
+[
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 17480
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 17234
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 37
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 10
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5286
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 4796
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 57851
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 59819
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 493
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 63
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 12
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 74686
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 73103
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 85
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 43
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 79
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 13
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 117060
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 116004
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1191
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1586
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 657
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 295
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 296625
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 298009
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 14045
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15523
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 80141
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 79828
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 2
+    },
+    {
+        "Data": "2024-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20849
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18514
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 69
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 53
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 6160
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5653
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 3
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 3
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 58857
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 56872
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 282
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 48
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 74881
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 74684
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 98
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 44
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 92
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 3
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 116509
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 116176
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1238
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1581
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 386
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 347
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 323781
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 321486
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 17004
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 16702
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 88319
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 88120
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 22477
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 21799
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 15960
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 14810
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 65474
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 62534
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 89151
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 83488
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 150535
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 140564
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 355054
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 333905
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 50
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 33
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2562
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2546
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 16624
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 16758
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 241
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 246
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 218
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 222
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 113
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 113
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 367
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 201
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 869
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 425
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 106621
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 105677
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 1
+    },
+    {
+        "Data": "2024-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 16249
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 19499
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 11937
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 9614
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 51737
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 44198
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 64256
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 57555
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 108077
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 98359
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 277443
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 249932
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 202
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 54
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2127
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2246
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 14333
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15547
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 222
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 223
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 268
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 271
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 30
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 4
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 503
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 120
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1202
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 449
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 80223
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 80088
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 9
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 1
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18877
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18875
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 10451
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 10012
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 48979
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 48085
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 59686
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 57718
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 101899
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 98975
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 284696
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 275858
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 63
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 43
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1945
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1775
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 12647
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 10942
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 196
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 188
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 283
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 282
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 11
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 3
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 112
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 62
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 272
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 247
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 83385
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 83853
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 2
+    },
+    {
+        "Data": "2024-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20475
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 15245
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 11941
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 11361
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 45164
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 38664
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 57582
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 47333
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 89411
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 80343
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 260625
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 238625
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 58
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 42
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1425
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1311
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 11532
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 9031
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 290
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 267
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 153
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 160
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 9
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 183
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 165
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 88
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 357
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 328
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 94884
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 96219
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20052
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20736
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 12111
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 13103
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 45562
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 46361
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 51186
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 53102
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 89116
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 87805
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 264802
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 270767
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 91
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 56
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1389
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1326
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 11579
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 10103
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 207
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 174
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 171
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 182
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 14
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 9
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 302
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 97
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 527
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 425
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 100742
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 101825
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18661
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 22473
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 15110
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 19166
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 44814
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 49208
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 54389
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 60054
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 91823
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 93517
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 264334
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 253033
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 170
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 106
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1191
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1620
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 12800
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 12593
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 234
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 199
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 258
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 269
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 12
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 6
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 83
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 30
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 770
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 466
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 104745
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 106455
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 26885
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 26316
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 18279
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 14930
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 62730
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 61363
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 77982
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 76707
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 121530
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 126397
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 296258
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 291297
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 175
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 102
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1688
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1956
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 13744
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15838
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 231
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 206
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 810
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 815
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 86
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 73
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 413
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 198
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1258
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 586
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 117706
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 118026
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 22
+    },
+    {
+        "Data": "2024-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 24331
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 21903
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 52973
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 50084
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 9261
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 8809
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 65838
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 62168
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 111114
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 106775
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 292029
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 290031
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 125
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 79
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1264
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1688
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15562
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15256
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 80
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 75
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 32
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 6
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 13
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 13
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 190
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 39
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 462
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 310
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 101511
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 98206
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 19574
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20922
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 7657
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 7873
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 51354
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 53586
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 65052
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 66795
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 105427
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 106939
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 275726
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 286182
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 128
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 86
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1658
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1494
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 17544
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 15667
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 91
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 66
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 12
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 12
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 314
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 21
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 305
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 21
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 228
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 141
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 90499
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 92981
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2024-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Desembarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 0
+    }
+]

@@ -1,0 +1,4112 @@
+[
+    {
+        "UF": "RO",
+        "Município": "Ariquemes",
+        "Região": "Norte",
+        "Nota": "44,50260329973971",
+        "Colocação": "315",
+        "Delta colocação": "-30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-315"
+    },
+    {
+        "UF": "RO",
+        "Município": "Cacoal",
+        "Região": "Norte",
+        "Nota": "48,27955129739804",
+        "Colocação": "240",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-240"
+    },
+    {
+        "UF": "RO",
+        "Município": "Ji-Paraná",
+        "Região": "Norte",
+        "Nota": "50,671383011718035",
+        "Colocação": "196",
+        "Delta colocação": "86",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-196"
+    },
+    {
+        "UF": "RO",
+        "Município": "Porto Velho",
+        "Região": "Norte",
+        "Nota": "47,02711304163624",
+        "Colocação": "271",
+        "Delta colocação": "7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-271"
+    },
+    {
+        "UF": "RO",
+        "Município": "Vilhena",
+        "Região": "Norte",
+        "Nota": "47,79749328699113",
+        "Colocação": "250",
+        "Delta colocação": "56",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-250"
+    },
+    {
+        "UF": "AC",
+        "Município": "Cruzeiro do Sul",
+        "Região": "Norte",
+        "Nota": "40,52669948289146",
+        "Colocação": "366",
+        "Delta colocação": "-8",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-366"
+    },
+    {
+        "UF": "AC",
+        "Município": "Rio Branco",
+        "Região": "Norte",
+        "Nota": "50,402607463545706",
+        "Colocação": "207",
+        "Delta colocação": "47",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-207"
+    },
+    {
+        "UF": "AM",
+        "Município": "Coari",
+        "Região": "Norte",
+        "Nota": "36,12497875424327",
+        "Colocação": "398",
+        "Delta colocação": "-21",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-398"
+    },
+    {
+        "UF": "AM",
+        "Município": "Itacoatiara",
+        "Região": "Norte",
+        "Nota": "39,42761977081244",
+        "Colocação": "374",
+        "Delta colocação": "-7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-374"
+    },
+    {
+        "UF": "AM",
+        "Município": "Manacapuru",
+        "Região": "Norte",
+        "Nota": "36,38070743593819",
+        "Colocação": "395",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-395"
+    },
+    {
+        "UF": "AM",
+        "Município": "Manaus",
+        "Região": "Norte",
+        "Nota": "52,90970093241586",
+        "Colocação": "145",
+        "Delta colocação": "46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-145"
+    },
+    {
+        "UF": "AM",
+        "Município": "Parintins",
+        "Região": "Norte",
+        "Nota": "37,54560993030898",
+        "Colocação": "389",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-389"
+    },
+    {
+        "UF": "RR",
+        "Município": "Boa Vista",
+        "Região": "Norte",
+        "Nota": "50,963749963094834",
+        "Colocação": "192",
+        "Delta colocação": "49",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-192"
+    },
+    {
+        "UF": "PA",
+        "Município": "Abaetetuba",
+        "Região": "Norte",
+        "Nota": "35,56864877558639",
+        "Colocação": "401",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-401"
+    },
+    {
+        "UF": "PA",
+        "Município": "Altamira",
+        "Região": "Norte",
+        "Nota": "38,82431914577665",
+        "Colocação": "382",
+        "Delta colocação": "-25",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-382"
+    },
+    {
+        "UF": "PA",
+        "Município": "Ananindeua",
+        "Região": "Norte",
+        "Nota": "41,435275303361124",
+        "Colocação": "359",
+        "Delta colocação": "17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-359"
+    },
+    {
+        "UF": "PA",
+        "Município": "Barcarena",
+        "Região": "Norte",
+        "Nota": "41,86874142897165",
+        "Colocação": "352",
+        "Delta colocação": "18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-352"
+    },
+    {
+        "UF": "PA",
+        "Município": "Belém",
+        "Região": "Norte",
+        "Nota": "42,92264879597798",
+        "Colocação": "339",
+        "Delta colocação": "-83",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-339"
+    },
+    {
+        "UF": "PA",
+        "Município": "Bragança",
+        "Região": "Norte",
+        "Nota": "40,44687231766192",
+        "Colocação": "368",
+        "Delta colocação": "15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-368"
+    },
+    {
+        "UF": "PA",
+        "Município": "Breves",
+        "Região": "Norte",
+        "Nota": "27,42567069430241",
+        "Colocação": "410",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-410"
+    },
+    {
+        "UF": "PA",
+        "Município": "Cametá",
+        "Região": "Norte",
+        "Nota": "31,13680242972576",
+        "Colocação": "407",
+        "Delta colocação": "-10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-407"
+    },
+    {
+        "UF": "PA",
+        "Município": "Castanhal",
+        "Região": "Norte",
+        "Nota": "40,03616979321968",
+        "Colocação": "371",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-371"
+    },
+    {
+        "UF": "PA",
+        "Município": "Itaituba",
+        "Região": "Norte",
+        "Nota": "36,09594038350025",
+        "Colocação": "399",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-399"
+    },
+    {
+        "UF": "PA",
+        "Município": "Marabá",
+        "Região": "Norte",
+        "Nota": "43,98325436845995",
+        "Colocação": "324",
+        "Delta colocação": "44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-324"
+    },
+    {
+        "UF": "PA",
+        "Município": "Marituba",
+        "Região": "Norte",
+        "Nota": "34,55937603768638",
+        "Colocação": "404",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-404"
+    },
+    {
+        "UF": "PA",
+        "Município": "Moju",
+        "Região": "Norte",
+        "Nota": "24,903411606408426",
+        "Colocação": "411",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-411"
+    },
+    {
+        "UF": "PA",
+        "Município": "Paragominas",
+        "Região": "Norte",
+        "Nota": "43,12083195853703",
+        "Colocação": "334",
+        "Delta colocação": "22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-334"
+    },
+    {
+        "UF": "PA",
+        "Município": "Parauapebas",
+        "Região": "Norte",
+        "Nota": "49,33776243803778",
+        "Colocação": "225",
+        "Delta colocação": "46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-225"
+    },
+    {
+        "UF": "PA",
+        "Município": "Redenção",
+        "Região": "Norte",
+        "Nota": "38,22075585081323",
+        "Colocação": "387",
+        "Delta colocação": "-8",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-387"
+    },
+    {
+        "UF": "PA",
+        "Município": "Santarém",
+        "Região": "Norte",
+        "Nota": "42,72911716825116",
+        "Colocação": "342",
+        "Delta colocação": "27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-342"
+    },
+    {
+        "UF": "PA",
+        "Município": "São Félix do Xingu",
+        "Região": "Norte",
+        "Nota": "34,063415797569405",
+        "Colocação": "405",
+        "Delta colocação": "-10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-405"
+    },
+    {
+        "UF": "PA",
+        "Município": "Tailândia",
+        "Região": "Norte",
+        "Nota": "28,376822473780294",
+        "Colocação": "409",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-409"
+    },
+    {
+        "UF": "PA",
+        "Município": "Tucuruí",
+        "Região": "Norte",
+        "Nota": "31,064998100088726",
+        "Colocação": "408",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-408"
+    },
+    {
+        "UF": "AP",
+        "Município": "Macapá",
+        "Região": "Norte",
+        "Nota": "46,766457951929915",
+        "Colocação": "278",
+        "Delta colocação": "35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-278"
+    },
+    {
+        "UF": "AP",
+        "Município": "Santana",
+        "Região": "Norte",
+        "Nota": "36,330261689494044",
+        "Colocação": "396",
+        "Delta colocação": "-31",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-396"
+    },
+    {
+        "UF": "TO",
+        "Município": "Araguaína",
+        "Região": "Norte",
+        "Nota": "46,57487115991146",
+        "Colocação": "284",
+        "Delta colocação": "-22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-284"
+    },
+    {
+        "UF": "TO",
+        "Município": "Gurupi",
+        "Região": "Norte",
+        "Nota": "48,30246898721972",
+        "Colocação": "239",
+        "Delta colocação": "-54",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-239"
+    },
+    {
+        "UF": "TO",
+        "Município": "Palmas",
+        "Região": "Norte",
+        "Nota": "57,03525298",
+        "Colocação": "61",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-61"
+    },
+    {
+        "UF": "MA",
+        "Município": "Açailândia",
+        "Região": "Nordeste",
+        "Nota": "38,621800882759175",
+        "Colocação": "384",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-384"
+    },
+    {
+        "UF": "MA",
+        "Município": "Bacabal",
+        "Região": "Nordeste",
+        "Nota": "39,18186890145913",
+        "Colocação": "379",
+        "Delta colocação": "15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-379"
+    },
+    {
+        "UF": "MA",
+        "Município": "Balsas",
+        "Região": "Nordeste",
+        "Nota": "39,20158101",
+        "Colocação": "378",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-378"
+    },
+    {
+        "UF": "MA",
+        "Município": "Barra do Corda",
+        "Região": "Nordeste",
+        "Nota": "36,488159762322994",
+        "Colocação": "394",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-394"
+    },
+    {
+        "UF": "MA",
+        "Município": "Caxias",
+        "Região": "Nordeste",
+        "Nota": "42,60041050301708",
+        "Colocação": "345",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-345"
+    },
+    {
+        "UF": "MA",
+        "Município": "Chapadinha",
+        "Região": "Nordeste",
+        "Nota": "35,237985948753575",
+        "Colocação": "402",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-402"
+    },
+    {
+        "UF": "MA",
+        "Município": "Codó",
+        "Região": "Nordeste",
+        "Nota": "37,72419642138618",
+        "Colocação": "388",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-388"
+    },
+    {
+        "UF": "MA",
+        "Município": "Imperatriz",
+        "Região": "Nordeste",
+        "Nota": "48,32620008249456",
+        "Colocação": "237",
+        "Delta colocação": "43",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-237"
+    },
+    {
+        "UF": "MA",
+        "Município": "Paço do Lumiar",
+        "Região": "Nordeste",
+        "Nota": "39,38037042390209",
+        "Colocação": "376",
+        "Delta colocação": "-47",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-376"
+    },
+    {
+        "UF": "MA",
+        "Município": "Pinheiro",
+        "Região": "Nordeste",
+        "Nota": "31,384713057476052",
+        "Colocação": "406",
+        "Delta colocação": "-10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-406"
+    },
+    {
+        "UF": "MA",
+        "Município": "Santa Inês",
+        "Região": "Nordeste",
+        "Nota": "36,489219684951124",
+        "Colocação": "393",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-393"
+    },
+    {
+        "UF": "MA",
+        "Município": "São José de Ribamar",
+        "Região": "Nordeste",
+        "Nota": "39,82614880489325",
+        "Colocação": "372",
+        "Delta colocação": "-39",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-372"
+    },
+    {
+        "UF": "MA",
+        "Município": "São Luís",
+        "Região": "Nordeste",
+        "Nota": "51,441399506806015",
+        "Colocação": "182",
+        "Delta colocação": "55",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-182"
+    },
+    {
+        "UF": "MA",
+        "Município": "Timon",
+        "Região": "Nordeste",
+        "Nota": "41,953049028252735",
+        "Colocação": "351",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-351"
+    },
+    {
+        "UF": "PI",
+        "Município": "Parnaíba",
+        "Região": "Nordeste",
+        "Nota": "44,33717431",
+        "Colocação": "318",
+        "Delta colocação": "48",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-318"
+    },
+    {
+        "UF": "PI",
+        "Município": "Teresina",
+        "Região": "Nordeste",
+        "Nota": "53,49863309261342",
+        "Colocação": "132",
+        "Delta colocação": "50",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-132"
+    },
+    {
+        "UF": "CE",
+        "Município": "Aquiraz",
+        "Região": "Nordeste",
+        "Nota": "45,242228561888986",
+        "Colocação": "304",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-304"
+    },
+    {
+        "UF": "CE",
+        "Município": "Caucaia",
+        "Região": "Nordeste",
+        "Nota": "46,53266439105217",
+        "Colocação": "286",
+        "Delta colocação": "36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-286"
+    },
+    {
+        "UF": "CE",
+        "Município": "Crato",
+        "Região": "Nordeste",
+        "Nota": "48,39772396421669",
+        "Colocação": "235",
+        "Delta colocação": "-34",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-235"
+    },
+    {
+        "UF": "CE",
+        "Município": "Fortaleza",
+        "Região": "Nordeste",
+        "Nota": "53,85329301604409",
+        "Colocação": "126",
+        "Delta colocação": "27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-126"
+    },
+    {
+        "UF": "CE",
+        "Município": "Iguatu",
+        "Região": "Nordeste",
+        "Nota": "48,02533161",
+        "Colocação": "245",
+        "Delta colocação": "30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-245"
+    },
+    {
+        "UF": "CE",
+        "Município": "Itapipoca",
+        "Região": "Nordeste",
+        "Nota": "45,564960891974025",
+        "Colocação": "298",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-298"
+    },
+    {
+        "UF": "CE",
+        "Município": "Juazeiro do Norte",
+        "Região": "Nordeste",
+        "Nota": "48,197343895151114",
+        "Colocação": "241",
+        "Delta colocação": "18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-241"
+    },
+    {
+        "UF": "CE",
+        "Município": "Maracanaú",
+        "Região": "Nordeste",
+        "Nota": "47,638752727123894",
+        "Colocação": "254",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-254"
+    },
+    {
+        "UF": "CE",
+        "Município": "Maranguape",
+        "Região": "Nordeste",
+        "Nota": "42,83646825239005",
+        "Colocação": "341",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-341"
+    },
+    {
+        "UF": "CE",
+        "Município": "Pacatuba",
+        "Região": "Nordeste",
+        "Nota": "43,30850966013478",
+        "Colocação": "333",
+        "Delta colocação": "-32",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-333"
+    },
+    {
+        "UF": "CE",
+        "Município": "Quixadá",
+        "Região": "Nordeste",
+        "Nota": "44,47992066153672",
+        "Colocação": "317",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-317"
+    },
+    {
+        "UF": "CE",
+        "Município": "Quixeramobim",
+        "Região": "Nordeste",
+        "Nota": "44,75385938903782",
+        "Colocação": "311",
+        "Delta colocação": "-106",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-311"
+    },
+    {
+        "UF": "CE",
+        "Município": "Sobral",
+        "Região": "Nordeste",
+        "Nota": "55,503822605762394",
+        "Colocação": "83",
+        "Delta colocação": "38",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-83"
+    },
+    {
+        "UF": "RN",
+        "Município": "Parnamirim",
+        "Região": "Nordeste",
+        "Nota": "47,84538468087183",
+        "Colocação": "249",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-249"
+    },
+    {
+        "UF": "RN",
+        "Município": "Macaíba",
+        "Região": "Nordeste",
+        "Nota": "40,06594742480859",
+        "Colocação": "370",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-370"
+    },
+    {
+        "UF": "RN",
+        "Município": "Mossoró",
+        "Região": "Nordeste",
+        "Nota": "48,055737893047734",
+        "Colocação": "244",
+        "Delta colocação": "30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-244"
+    },
+    {
+        "UF": "RN",
+        "Município": "Natal",
+        "Região": "Nordeste",
+        "Nota": "50,57041209216812",
+        "Colocação": "202",
+        "Delta colocação": "12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-202"
+    },
+    {
+        "UF": "RN",
+        "Município": "São Gonçalo do Amarante",
+        "Região": "Nordeste",
+        "Nota": "43,006334533605155",
+        "Colocação": "338",
+        "Delta colocação": "-14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-338"
+    },
+    {
+        "UF": "PB",
+        "Município": "Bayeux",
+        "Região": "Nordeste",
+        "Nota": "38,83386012",
+        "Colocação": "381",
+        "Delta colocação": "-41",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-381"
+    },
+    {
+        "UF": "PB",
+        "Município": "Campina Grande",
+        "Região": "Nordeste",
+        "Nota": "52,014010506698355",
+        "Colocação": "164",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-164"
+    },
+    {
+        "UF": "PB",
+        "Município": "João Pessoa",
+        "Região": "Nordeste",
+        "Nota": "54,566003035052724",
+        "Colocação": "107",
+        "Delta colocação": "-37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-107"
+    },
+    {
+        "UF": "PB",
+        "Município": "Patos",
+        "Região": "Nordeste",
+        "Nota": "45,276385398287374",
+        "Colocação": "303",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-303"
+    },
+    {
+        "UF": "PB",
+        "Município": "Santa Rita",
+        "Região": "Nordeste",
+        "Nota": "40,80616963151059",
+        "Colocação": "362",
+        "Delta colocação": "-36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-362"
+    },
+    {
+        "UF": "PE",
+        "Município": "Abreu e Lima",
+        "Região": "Nordeste",
+        "Nota": "44,75598183415857",
+        "Colocação": "310",
+        "Delta colocação": "43",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-310"
+    },
+    {
+        "UF": "PE",
+        "Município": "Araripina",
+        "Região": "Nordeste",
+        "Nota": "43,51832479",
+        "Colocação": "330",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-330"
+    },
+    {
+        "UF": "PE",
+        "Município": "Cabo de Santo Agostinho",
+        "Região": "Nordeste",
+        "Nota": "44,584848928456964",
+        "Colocação": "314",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-314"
+    },
+    {
+        "UF": "PE",
+        "Município": "Camaragibe",
+        "Região": "Nordeste",
+        "Nota": "41,37378847690236",
+        "Colocação": "360",
+        "Delta colocação": "-30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-360"
+    },
+    {
+        "UF": "PE",
+        "Município": "Carpina",
+        "Região": "Nordeste",
+        "Nota": "44,15837971",
+        "Colocação": "322",
+        "Delta colocação": "-10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-322"
+    },
+    {
+        "UF": "PE",
+        "Município": "Caruaru",
+        "Região": "Nordeste",
+        "Nota": "51,59341634721547",
+        "Colocação": "177",
+        "Delta colocação": "11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-177"
+    },
+    {
+        "UF": "PE",
+        "Município": "Garanhuns",
+        "Região": "Nordeste",
+        "Nota": "47,38593335784558",
+        "Colocação": "258",
+        "Delta colocação": "10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-258"
+    },
+    {
+        "UF": "PE",
+        "Município": "Goiana",
+        "Região": "Nordeste",
+        "Nota": "43,09830497129626",
+        "Colocação": "335",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-335"
+    },
+    {
+        "UF": "PE",
+        "Município": "Gravatá",
+        "Região": "Nordeste",
+        "Nota": "43,78983144873817",
+        "Colocação": "328",
+        "Delta colocação": "10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-328"
+    },
+    {
+        "UF": "PE",
+        "Município": "Igarassu",
+        "Região": "Nordeste",
+        "Nota": "43,981252942489874",
+        "Colocação": "325",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-325"
+    },
+    {
+        "UF": "PE",
+        "Município": "Ipojuca",
+        "Região": "Nordeste",
+        "Nota": "43,937297737177296",
+        "Colocação": "326",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-326"
+    },
+    {
+        "UF": "PE",
+        "Município": "Jaboatão dos Guararapes",
+        "Região": "Nordeste",
+        "Nota": "44,76739451536185",
+        "Colocação": "309",
+        "Delta colocação": "-26",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-309"
+    },
+    {
+        "UF": "PE",
+        "Município": "Olinda",
+        "Região": "Nordeste",
+        "Nota": "46,83169377192455",
+        "Colocação": "276",
+        "Delta colocação": "-16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-276"
+    },
+    {
+        "UF": "PE",
+        "Município": "Paulista",
+        "Região": "Nordeste",
+        "Nota": "46,299053344417715",
+        "Colocação": "290",
+        "Delta colocação": "8",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-290"
+    },
+    {
+        "UF": "PE",
+        "Município": "Petrolina",
+        "Região": "Nordeste",
+        "Nota": "50,18770748034507",
+        "Colocação": "212",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-212"
+    },
+    {
+        "UF": "PE",
+        "Município": "Recife",
+        "Região": "Nordeste",
+        "Nota": "57,13314891937151",
+        "Colocação": "55",
+        "Delta colocação": "45",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-55"
+    },
+    {
+        "UF": "PE",
+        "Município": "Santa Cruz do Capibaribe",
+        "Região": "Nordeste",
+        "Nota": "47,14411616",
+        "Colocação": "267",
+        "Delta colocação": "-16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-267"
+    },
+    {
+        "UF": "PE",
+        "Município": "São Lourenço da Mata",
+        "Região": "Nordeste",
+        "Nota": "38,988042818281905",
+        "Colocação": "380",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-380"
+    },
+    {
+        "UF": "PE",
+        "Município": "Serra Talhada",
+        "Região": "Nordeste",
+        "Nota": "49,14295375429624",
+        "Colocação": "227",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-227"
+    },
+    {
+        "UF": "PE",
+        "Município": "Vitória de Santo Antão",
+        "Região": "Nordeste",
+        "Nota": "44,24598052296258",
+        "Colocação": "320",
+        "Delta colocação": "3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-320"
+    },
+    {
+        "UF": "AL",
+        "Município": "Arapiraca",
+        "Região": "Nordeste",
+        "Nota": "41,739842479311335",
+        "Colocação": "354",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-354"
+    },
+    {
+        "UF": "AL",
+        "Município": "Maceió",
+        "Região": "Nordeste",
+        "Nota": "49,34222265376322",
+        "Colocação": "224",
+        "Delta colocação": "31",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-224"
+    },
+    {
+        "UF": "SE",
+        "Município": "Aracaju",
+        "Região": "Nordeste",
+        "Nota": "48,59120550870655",
+        "Colocação": "232",
+        "Delta colocação": "-23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-232"
+    },
+    {
+        "UF": "SE",
+        "Município": "Itabaiana",
+        "Região": "Nordeste",
+        "Nota": "40,51027888607663",
+        "Colocação": "367",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-367"
+    },
+    {
+        "UF": "SE",
+        "Município": "Lagarto",
+        "Região": "Nordeste",
+        "Nota": "38,317453792022945",
+        "Colocação": "386",
+        "Delta colocação": "-36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-386"
+    },
+    {
+        "UF": "SE",
+        "Município": "Nossa Senhora do Socorro",
+        "Região": "Nordeste",
+        "Nota": "38,75633993",
+        "Colocação": "383",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-383"
+    },
+    {
+        "UF": "SE",
+        "Município": "São Cristóvão",
+        "Região": "Nordeste",
+        "Nota": "45,73478214211706",
+        "Colocação": "297",
+        "Delta colocação": "-9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-297"
+    },
+    {
+        "UF": "BA",
+        "Município": "Alagoinhas",
+        "Região": "Nordeste",
+        "Nota": "43,36198506578965",
+        "Colocação": "331",
+        "Delta colocação": "40",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-331"
+    },
+    {
+        "UF": "BA",
+        "Município": "Barreiras",
+        "Região": "Nordeste",
+        "Nota": "45,51673048203087",
+        "Colocação": "300",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-300"
+    },
+    {
+        "UF": "BA",
+        "Município": "Camaçari",
+        "Região": "Nordeste",
+        "Nota": "47,10722686033824",
+        "Colocação": "269",
+        "Delta colocação": "46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-269"
+    },
+    {
+        "UF": "BA",
+        "Município": "Candeias",
+        "Região": "Nordeste",
+        "Nota": "39,42032344920786",
+        "Colocação": "375",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-375"
+    },
+    {
+        "UF": "BA",
+        "Município": "Dias d'Ávila",
+        "Região": "Nordeste",
+        "Nota": "40,62042381",
+        "Colocação": "365",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-365"
+    },
+    {
+        "UF": "BA",
+        "Município": "Eunápolis",
+        "Região": "Nordeste",
+        "Nota": "40,785172243667596",
+        "Colocação": "363",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-363"
+    },
+    {
+        "UF": "BA",
+        "Município": "Feira de Santana",
+        "Região": "Nordeste",
+        "Nota": "44,01633453218641",
+        "Colocação": "323",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-323"
+    },
+    {
+        "UF": "BA",
+        "Município": "Guanambi",
+        "Região": "Nordeste",
+        "Nota": "42,86115414352913",
+        "Colocação": "340",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-340"
+    },
+    {
+        "UF": "BA",
+        "Município": "Ilhéus",
+        "Região": "Nordeste",
+        "Nota": "37,3246053",
+        "Colocação": "391",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-391"
+    },
+    {
+        "UF": "BA",
+        "Município": "Itabuna",
+        "Região": "Nordeste",
+        "Nota": "44,48118462655737",
+        "Colocação": "316",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-316"
+    },
+    {
+        "UF": "BA",
+        "Município": "Jacobina",
+        "Região": "Nordeste",
+        "Nota": "43,34968683",
+        "Colocação": "332",
+        "Delta colocação": "22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-332"
+    },
+    {
+        "UF": "BA",
+        "Município": "Jequié",
+        "Região": "Nordeste",
+        "Nota": "43,91373460723803",
+        "Colocação": "327",
+        "Delta colocação": "33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-327"
+    },
+    {
+        "UF": "BA",
+        "Município": "Juazeiro",
+        "Região": "Nordeste",
+        "Nota": "46,44923983930299",
+        "Colocação": "288",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-288"
+    },
+    {
+        "UF": "BA",
+        "Município": "Lauro de Freitas",
+        "Região": "Nordeste",
+        "Nota": "47,176752296295724",
+        "Colocação": "263",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-263"
+    },
+    {
+        "UF": "BA",
+        "Município": "Luís Eduardo Magalhães",
+        "Região": "Nordeste",
+        "Nota": "44,902322363094996",
+        "Colocação": "307",
+        "Delta colocação": "-21",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-307"
+    },
+    {
+        "UF": "BA",
+        "Município": "Paulo Afonso",
+        "Região": "Nordeste",
+        "Nota": "42,52776109",
+        "Colocação": "346",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-346"
+    },
+    {
+        "UF": "BA",
+        "Município": "Porto Seguro",
+        "Região": "Nordeste",
+        "Nota": "40,87533625625392",
+        "Colocação": "361",
+        "Delta colocação": "-25",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-361"
+    },
+    {
+        "UF": "BA",
+        "Município": "Salvador",
+        "Região": "Nordeste",
+        "Nota": "50,83082022874646",
+        "Colocação": "193",
+        "Delta colocação": "3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-193"
+    },
+    {
+        "UF": "BA",
+        "Município": "Santo Antônio de Jesus",
+        "Região": "Nordeste",
+        "Nota": "43,05475043852619",
+        "Colocação": "336",
+        "Delta colocação": "13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-336"
+    },
+    {
+        "UF": "BA",
+        "Município": "Serrinha",
+        "Região": "Nordeste",
+        "Nota": "41,677035003436785",
+        "Colocação": "355",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-355"
+    },
+    {
+        "UF": "BA",
+        "Município": "Simões Filho",
+        "Região": "Nordeste",
+        "Nota": "39,34811971549903",
+        "Colocação": "377",
+        "Delta colocação": "16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-377"
+    },
+    {
+        "UF": "BA",
+        "Município": "Teixeira de Freitas",
+        "Região": "Nordeste",
+        "Nota": "43,75748691053428",
+        "Colocação": "329",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-329"
+    },
+    {
+        "UF": "BA",
+        "Município": "Valença",
+        "Região": "Nordeste",
+        "Nota": "37,066496182700725",
+        "Colocação": "392",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-392"
+    },
+    {
+        "UF": "BA",
+        "Município": "Vitória da Conquista",
+        "Região": "Nordeste",
+        "Nota": "49,61011620090029",
+        "Colocação": "219",
+        "Delta colocação": "26",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-219"
+    },
+    {
+        "UF": "MG",
+        "Município": "Alfenas",
+        "Região": "Sudeste",
+        "Nota": "50,39299395489661",
+        "Colocação": "208",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-208"
+    },
+    {
+        "UF": "MG",
+        "Município": "Araguari",
+        "Região": "Sudeste",
+        "Nota": "51,53123542",
+        "Colocação": "181",
+        "Delta colocação": "-45",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-181"
+    },
+    {
+        "UF": "MG",
+        "Município": "Araxá",
+        "Região": "Sudeste",
+        "Nota": "54,543918478067226",
+        "Colocação": "108",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-108"
+    },
+    {
+        "UF": "MG",
+        "Município": "Barbacena",
+        "Região": "Sudeste",
+        "Nota": "53,66259459391187",
+        "Colocação": "131",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-131"
+    },
+    {
+        "UF": "MG",
+        "Município": "Belo Horizonte",
+        "Região": "Sudeste",
+        "Nota": "59,93746451077489",
+        "Colocação": "16",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-16"
+    },
+    {
+        "UF": "MG",
+        "Município": "Betim",
+        "Região": "Sudeste",
+        "Nota": "53,34787860025145",
+        "Colocação": "136",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-136"
+    },
+    {
+        "UF": "MG",
+        "Município": "Caratinga",
+        "Região": "Sudeste",
+        "Nota": "47,52053192607595",
+        "Colocação": "256",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-256"
+    },
+    {
+        "UF": "MG",
+        "Município": "Conselheiro Lafaiete",
+        "Região": "Sudeste",
+        "Nota": "52,59136333632628",
+        "Colocação": "152",
+        "Delta colocação": "11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-152"
+    },
+    {
+        "UF": "MG",
+        "Município": "Contagem",
+        "Região": "Sudeste",
+        "Nota": "52,844856375947614",
+        "Colocação": "147",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-147"
+    },
+    {
+        "UF": "MG",
+        "Município": "Coronel Fabriciano",
+        "Região": "Sudeste",
+        "Nota": "51,555876706585416",
+        "Colocação": "178",
+        "Delta colocação": "37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-178"
+    },
+    {
+        "UF": "MG",
+        "Município": "Curvelo",
+        "Região": "Sudeste",
+        "Nota": "48,11522612",
+        "Colocação": "243",
+        "Delta colocação": "-18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-243"
+    },
+    {
+        "UF": "MG",
+        "Município": "Divinópolis",
+        "Região": "Sudeste",
+        "Nota": "54,68593747545865",
+        "Colocação": "101",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-101"
+    },
+    {
+        "UF": "MG",
+        "Município": "Governador Valadares",
+        "Região": "Sudeste",
+        "Nota": "50,46088808332677",
+        "Colocação": "205",
+        "Delta colocação": "-35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-205"
+    },
+    {
+        "UF": "MG",
+        "Município": "Ibirité",
+        "Região": "Sudeste",
+        "Nota": "47,96694114206348",
+        "Colocação": "246",
+        "Delta colocação": "-33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-246"
+    },
+    {
+        "UF": "MG",
+        "Município": "Ipatinga",
+        "Região": "Sudeste",
+        "Nota": "54,40030402737063",
+        "Colocação": "113",
+        "Delta colocação": "33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-113"
+    },
+    {
+        "UF": "MG",
+        "Município": "Itabira",
+        "Região": "Sudeste",
+        "Nota": "55,429559551021605",
+        "Colocação": "85",
+        "Delta colocação": "10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-85"
+    },
+    {
+        "UF": "MG",
+        "Município": "Itajubá",
+        "Região": "Sudeste",
+        "Nota": "55,634390543187074",
+        "Colocação": "80",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-80"
+    },
+    {
+        "UF": "MG",
+        "Município": "Itaúna",
+        "Região": "Sudeste",
+        "Nota": "54,68653861",
+        "Colocação": "100",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-100"
+    },
+    {
+        "UF": "MG",
+        "Município": "Ituiutaba",
+        "Região": "Sudeste",
+        "Nota": "51,72415810038006",
+        "Colocação": "173",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-173"
+    },
+    {
+        "UF": "MG",
+        "Município": "João Monlevade",
+        "Região": "Sudeste",
+        "Nota": "53,80333832662793",
+        "Colocação": "127",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-127"
+    },
+    {
+        "UF": "MG",
+        "Município": "Juiz de Fora",
+        "Região": "Sudeste",
+        "Nota": "55,515390002492914",
+        "Colocação": "82",
+        "Delta colocação": "32",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-82"
+    },
+    {
+        "UF": "MG",
+        "Município": "Lavras",
+        "Região": "Sudeste",
+        "Nota": "55,29333668711766",
+        "Colocação": "88",
+        "Delta colocação": "-48",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-88"
+    },
+    {
+        "UF": "MG",
+        "Município": "Manhuaçu",
+        "Região": "Sudeste",
+        "Nota": "47,24054365193837",
+        "Colocação": "260",
+        "Delta colocação": "-22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-260"
+    },
+    {
+        "UF": "MG",
+        "Município": "Montes Claros",
+        "Região": "Sudeste",
+        "Nota": "52,80930760798537",
+        "Colocação": "148",
+        "Delta colocação": "-30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-148"
+    },
+    {
+        "UF": "MG",
+        "Município": "Muriaé",
+        "Região": "Sudeste",
+        "Nota": "51,85783341210447",
+        "Colocação": "170",
+        "Delta colocação": "-72",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-170"
+    },
+    {
+        "UF": "MG",
+        "Município": "Nova Lima",
+        "Região": "Sudeste",
+        "Nota": "58,69077848",
+        "Colocação": "29",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-29"
+    },
+    {
+        "UF": "MG",
+        "Município": "Nova Serrana",
+        "Região": "Sudeste",
+        "Nota": "49,97820123",
+        "Colocação": "216",
+        "Delta colocação": "-18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-216"
+    },
+    {
+        "UF": "MG",
+        "Município": "Paracatu",
+        "Região": "Sudeste",
+        "Nota": "47,88030694294929",
+        "Colocação": "248",
+        "Delta colocação": "-16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-248"
+    },
+    {
+        "UF": "MG",
+        "Município": "Pará de Minas",
+        "Região": "Sudeste",
+        "Nota": "52,64949744439323",
+        "Colocação": "151",
+        "Delta colocação": "-9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-151"
+    },
+    {
+        "UF": "MG",
+        "Município": "Passos",
+        "Região": "Sudeste",
+        "Nota": "51,683154333705225",
+        "Colocação": "174",
+        "Delta colocação": "-58",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-174"
+    },
+    {
+        "UF": "MG",
+        "Município": "Patos de Minas",
+        "Região": "Sudeste",
+        "Nota": "53,79867743094363",
+        "Colocação": "128",
+        "Delta colocação": "-20",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-128"
+    },
+    {
+        "UF": "MG",
+        "Município": "Patrocínio",
+        "Região": "Sudeste",
+        "Nota": "51,905500722086046",
+        "Colocação": "168",
+        "Delta colocação": "13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-168"
+    },
+    {
+        "UF": "MG",
+        "Município": "Poços de Caldas",
+        "Região": "Sudeste",
+        "Nota": "56,028307390225315",
+        "Colocação": "75",
+        "Delta colocação": "-36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-75"
+    },
+    {
+        "UF": "MG",
+        "Município": "Pouso Alegre",
+        "Região": "Sudeste",
+        "Nota": "56,97108738078076",
+        "Colocação": "62",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-62"
+    },
+    {
+        "UF": "MG",
+        "Município": "Ribeirão das Neves",
+        "Região": "Sudeste",
+        "Nota": "45,05534020275695",
+        "Colocação": "305",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-305"
+    },
+    {
+        "UF": "MG",
+        "Município": "Sabará",
+        "Região": "Sudeste",
+        "Nota": "47,16560950474168",
+        "Colocação": "265",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-265"
+    },
+    {
+        "UF": "MG",
+        "Município": "Santa Luzia",
+        "Região": "Sudeste",
+        "Nota": "47,205342618340524",
+        "Colocação": "261",
+        "Delta colocação": "-42",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-261"
+    },
+    {
+        "UF": "MG",
+        "Município": "São João del Rei",
+        "Região": "Sudeste",
+        "Nota": "52,786181251447395",
+        "Colocação": "150",
+        "Delta colocação": "-54",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-150"
+    },
+    {
+        "UF": "MG",
+        "Município": "Sete Lagoas",
+        "Região": "Sudeste",
+        "Nota": "51,73769879437563",
+        "Colocação": "172",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-172"
+    },
+    {
+        "UF": "MG",
+        "Município": "Teófilo Otoni",
+        "Região": "Sudeste",
+        "Nota": "47,16664554043492",
+        "Colocação": "264",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-264"
+    },
+    {
+        "UF": "MG",
+        "Município": "Timóteo",
+        "Região": "Sudeste",
+        "Nota": "49,00847531340486",
+        "Colocação": "229",
+        "Delta colocação": "-21",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-229"
+    },
+    {
+        "UF": "MG",
+        "Município": "Três Corações",
+        "Região": "Sudeste",
+        "Nota": "49,5383429",
+        "Colocação": "221",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-221"
+    },
+    {
+        "UF": "MG",
+        "Município": "Ubá",
+        "Região": "Sudeste",
+        "Nota": "49,49446959238892",
+        "Colocação": "222",
+        "Delta colocação": "-53",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-222"
+    },
+    {
+        "UF": "MG",
+        "Município": "Uberaba",
+        "Região": "Sudeste",
+        "Nota": "56,73324462246809",
+        "Colocação": "65",
+        "Delta colocação": "-16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-65"
+    },
+    {
+        "UF": "MG",
+        "Município": "Uberlândia",
+        "Região": "Sudeste",
+        "Nota": "58,120212820349934",
+        "Colocação": "32",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-32"
+    },
+    {
+        "UF": "MG",
+        "Município": "Unaí",
+        "Região": "Sudeste",
+        "Nota": "46,90672801842432",
+        "Colocação": "274",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-274"
+    },
+    {
+        "UF": "MG",
+        "Município": "Varginha",
+        "Região": "Sudeste",
+        "Nota": "56,706493005107134",
+        "Colocação": "66",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-66"
+    },
+    {
+        "UF": "MG",
+        "Município": "Vespasiano",
+        "Região": "Sudeste",
+        "Nota": "47,31093656025239",
+        "Colocação": "259",
+        "Delta colocação": "-39",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-259"
+    },
+    {
+        "UF": "ES",
+        "Município": "Aracruz",
+        "Região": "Sudeste",
+        "Nota": "50,44440567233136",
+        "Colocação": "206",
+        "Delta colocação": "-22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-206"
+    },
+    {
+        "UF": "ES",
+        "Município": "Cachoeiro de Itapemirim",
+        "Região": "Sudeste",
+        "Nota": "52,89878909520559",
+        "Colocação": "146",
+        "Delta colocação": "-8",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-146"
+    },
+    {
+        "UF": "ES",
+        "Município": "Cariacica",
+        "Região": "Sudeste",
+        "Nota": "48,33056954606243",
+        "Colocação": "236",
+        "Delta colocação": "30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-236"
+    },
+    {
+        "UF": "ES",
+        "Município": "Colatina",
+        "Região": "Sudeste",
+        "Nota": "51,11345297285077",
+        "Colocação": "188",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-188"
+    },
+    {
+        "UF": "ES",
+        "Município": "Guarapari",
+        "Região": "Sudeste",
+        "Nota": "49,28864496041377",
+        "Colocação": "226",
+        "Delta colocação": "37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-226"
+    },
+    {
+        "UF": "ES",
+        "Município": "Linhares",
+        "Região": "Sudeste",
+        "Nota": "51,01978645764122",
+        "Colocação": "190",
+        "Delta colocação": "34",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-190"
+    },
+    {
+        "UF": "ES",
+        "Município": "São Mateus",
+        "Região": "Sudeste",
+        "Nota": "47,01144871975246",
+        "Colocação": "272",
+        "Delta colocação": "21",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-272"
+    },
+    {
+        "UF": "ES",
+        "Município": "Serra",
+        "Região": "Sudeste",
+        "Nota": "51,882936103919704",
+        "Colocação": "169",
+        "Delta colocação": "34",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-169"
+    },
+    {
+        "UF": "ES",
+        "Município": "Vila Velha",
+        "Região": "Sudeste",
+        "Nota": "51,53973574142993",
+        "Colocação": "180",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-180"
+    },
+    {
+        "UF": "ES",
+        "Município": "Vitória",
+        "Região": "Sudeste",
+        "Nota": "63,99608648825826",
+        "Colocação": "5",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-5"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Angra dos Reis",
+        "Região": "Sudeste",
+        "Nota": "45,41122397763165",
+        "Colocação": "302",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-302"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Araruama",
+        "Região": "Sudeste",
+        "Nota": "40,74393932824264",
+        "Colocação": "364",
+        "Delta colocação": "-47",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-364"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Barra do Piraí",
+        "Região": "Sudeste",
+        "Nota": "40,43360473999209",
+        "Colocação": "369",
+        "Delta colocação": "-99",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-369"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Barra Mansa",
+        "Região": "Sudeste",
+        "Nota": "50,638759133077016",
+        "Colocação": "199",
+        "Delta colocação": "-37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-199"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Belford Roxo",
+        "Região": "Sudeste",
+        "Nota": "36,25336521960083",
+        "Colocação": "397",
+        "Delta colocação": "-12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-397"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Cabo Frio",
+        "Região": "Sudeste",
+        "Nota": "42,27296000016292",
+        "Colocação": "349",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-349"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Campos dos Goytacazes",
+        "Região": "Sudeste",
+        "Nota": "46,64330151397054",
+        "Colocação": "282",
+        "Delta colocação": "55",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-282"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Duque de Caxias",
+        "Região": "Sudeste",
+        "Nota": "46,040318329677646",
+        "Colocação": "293",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-293"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Itaboraí",
+        "Região": "Sudeste",
+        "Nota": "37,481575973160155",
+        "Colocação": "390",
+        "Delta colocação": "-35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-390"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Itaguaí",
+        "Região": "Sudeste",
+        "Nota": "42,521107923215155",
+        "Colocação": "348",
+        "Delta colocação": "44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-348"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Itaperuna",
+        "Região": "Sudeste",
+        "Nota": "45,87444307643442",
+        "Colocação": "294",
+        "Delta colocação": "-52",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-294"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Japeri",
+        "Região": "Sudeste",
+        "Nota": "34,780250370862376",
+        "Colocação": "403",
+        "Delta colocação": "-30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-403"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Macaé",
+        "Região": "Sudeste",
+        "Nota": "53,45321277292338",
+        "Colocação": "133",
+        "Delta colocação": "131",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-133"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Magé",
+        "Região": "Sudeste",
+        "Nota": "38,444697534262396",
+        "Colocação": "385",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-385"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Maricá",
+        "Região": "Sudeste",
+        "Nota": "47,179380901143546",
+        "Colocação": "262",
+        "Delta colocação": "-23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-262"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Mesquita",
+        "Região": "Sudeste",
+        "Nota": "45,738746917592195",
+        "Colocação": "296",
+        "Delta colocação": "-12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-296"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Nilópolis",
+        "Região": "Sudeste",
+        "Nota": "44,16568894471746",
+        "Colocação": "321",
+        "Delta colocação": "-69",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-321"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Niterói",
+        "Região": "Sudeste",
+        "Nota": "57,549004614327686",
+        "Colocação": "44",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-44"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Nova Friburgo",
+        "Região": "Sudeste",
+        "Nota": "52,20014014768383",
+        "Colocação": "158",
+        "Delta colocação": "-34",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-158"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Nova Iguaçu",
+        "Região": "Sudeste",
+        "Nota": "46,68754817829117",
+        "Colocação": "281",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-281"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Petrópolis",
+        "Região": "Sudeste",
+        "Nota": "53,41891804044476",
+        "Colocação": "134",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-134"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Queimados",
+        "Região": "Sudeste",
+        "Nota": "41,548176640023456",
+        "Colocação": "357",
+        "Delta colocação": "27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-357"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Resende",
+        "Região": "Sudeste",
+        "Nota": "55,38937142478906",
+        "Colocação": "86",
+        "Delta colocação": "44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-86"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Rio das Ostras",
+        "Região": "Sudeste",
+        "Nota": "46,24127730193345",
+        "Colocação": "292",
+        "Delta colocação": "-35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-292"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Rio de Janeiro",
+        "Região": "Sudeste",
+        "Nota": "56,44770205968717",
+        "Colocação": "67",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-67"
+    },
+    {
+        "UF": "RJ",
+        "Município": "São Gonçalo",
+        "Região": "Sudeste",
+        "Nota": "41,49887375965717",
+        "Colocação": "358",
+        "Delta colocação": "-56",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-358"
+    },
+    {
+        "UF": "RJ",
+        "Município": "São João de Meriti",
+        "Região": "Sudeste",
+        "Nota": "36,078059121721225",
+        "Colocação": "400",
+        "Delta colocação": "-37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-400"
+    },
+    {
+        "UF": "RJ",
+        "Município": "São Pedro da Aldeia",
+        "Região": "Sudeste",
+        "Nota": "47,15276376257217",
+        "Colocação": "266",
+        "Delta colocação": "41",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-266"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Saquarema",
+        "Região": "Sudeste",
+        "Nota": "52,11822319088665",
+        "Colocação": "160",
+        "Delta colocação": "46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-160"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Seropédica",
+        "Região": "Sudeste",
+        "Nota": "44,64906030566786",
+        "Colocação": "313",
+        "Delta colocação": "-18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-313"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Teresópolis",
+        "Região": "Sudeste",
+        "Nota": "46,31908079296792",
+        "Colocação": "289",
+        "Delta colocação": "-53",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-289"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Três Rios",
+        "Região": "Sudeste",
+        "Nota": "47,13248065200606",
+        "Colocação": "268",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-268"
+    },
+    {
+        "UF": "RJ",
+        "Município": "Volta Redonda",
+        "Região": "Sudeste",
+        "Nota": "52,54339376932848",
+        "Colocação": "153",
+        "Delta colocação": "-56",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-153"
+    },
+    {
+        "UF": "SP",
+        "Município": "Barueri",
+        "Região": "Sudeste",
+        "Nota": "68,26050989215192",
+        "Colocação": "1",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-1"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Caetano do Sul",
+        "Região": "Sudeste",
+        "Nota": "66,4629666",
+        "Colocação": "2",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-2"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Paulo",
+        "Região": "Sudeste",
+        "Nota": "64,47672552860492",
+        "Colocação": "4",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-4"
+    },
+    {
+        "UF": "SP",
+        "Município": "Santana de Parnaíba",
+        "Região": "Sudeste",
+        "Nota": "62,72062915296465",
+        "Colocação": "7",
+        "Delta colocação": "7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-7"
+    },
+    {
+        "UF": "SP",
+        "Município": "Campinas",
+        "Região": "Sudeste",
+        "Nota": "61,53698203767922",
+        "Colocação": "9",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-9"
+    },
+    {
+        "UF": "SP",
+        "Município": "Santos",
+        "Região": "Sudeste",
+        "Nota": "61,04677122158387",
+        "Colocação": "11",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-11"
+    },
+    {
+        "UF": "SP",
+        "Município": "Jundiaí",
+        "Região": "Sudeste",
+        "Nota": "60,99088344093616",
+        "Colocação": "12",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-12"
+    },
+    {
+        "UF": "SP",
+        "Município": "Vinhedo",
+        "Região": "Sudeste",
+        "Nota": "60,78074454910847",
+        "Colocação": "13",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-13"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Bernardo do Campo",
+        "Região": "Sudeste",
+        "Nota": "60,626235457360586",
+        "Colocação": "14",
+        "Delta colocação": "3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-14"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Carlos",
+        "Região": "Sudeste",
+        "Nota": "60,45449095187343",
+        "Colocação": "15",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-15"
+    },
+    {
+        "UF": "SP",
+        "Município": "Votuporanga",
+        "Região": "Sudeste",
+        "Nota": "59,633716963296074",
+        "Colocação": "19",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-19"
+    },
+    {
+        "UF": "SP",
+        "Município": "Ribeirão Preto",
+        "Região": "Sudeste",
+        "Nota": "59,42764715534033",
+        "Colocação": "20",
+        "Delta colocação": "12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-20"
+    },
+    {
+        "UF": "SP",
+        "Município": "Indaiatuba",
+        "Região": "Sudeste",
+        "Nota": "59,10304231581685",
+        "Colocação": "22",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-22"
+    },
+    {
+        "UF": "SP",
+        "Município": "Piracicaba",
+        "Região": "Sudeste",
+        "Nota": "59,035285023977046",
+        "Colocação": "23",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-23"
+    },
+    {
+        "UF": "SP",
+        "Município": "São José do Rio Preto",
+        "Região": "Sudeste",
+        "Nota": "59,030593475705274",
+        "Colocação": "24",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-24"
+    },
+    {
+        "UF": "SP",
+        "Município": "São José dos Campos",
+        "Região": "Sudeste",
+        "Nota": "59,00224901040718",
+        "Colocação": "25",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-25"
+    },
+    {
+        "UF": "SP",
+        "Município": "Osasco",
+        "Região": "Sudeste",
+        "Nota": "58,803429359453524",
+        "Colocação": "28",
+        "Delta colocação": "3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-28"
+    },
+    {
+        "UF": "SP",
+        "Município": "Barretos",
+        "Região": "Sudeste",
+        "Nota": "58,11490955407949",
+        "Colocação": "33",
+        "Delta colocação": "41",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-33"
+    },
+    {
+        "UF": "SP",
+        "Município": "Limeira",
+        "Região": "Sudeste",
+        "Nota": "58,007971010419794",
+        "Colocação": "36",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-36"
+    },
+    {
+        "UF": "SP",
+        "Município": "Araraquara",
+        "Região": "Sudeste",
+        "Nota": "57,94091813259898",
+        "Colocação": "38",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-38"
+    },
+    {
+        "UF": "SP",
+        "Município": "Sorocaba",
+        "Região": "Sudeste",
+        "Nota": "57,79057022709291",
+        "Colocação": "41",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-41"
+    },
+    {
+        "UF": "SP",
+        "Município": "Araras",
+        "Região": "Sudeste",
+        "Nota": "57,70201573708449",
+        "Colocação": "42",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-42"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itatiba",
+        "Região": "Sudeste",
+        "Nota": "57,574874151919964",
+        "Colocação": "43",
+        "Delta colocação": "17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-43"
+    },
+    {
+        "UF": "SP",
+        "Município": "Catanduva",
+        "Região": "Sudeste",
+        "Nota": "57,54177222633379",
+        "Colocação": "45",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-45"
+    },
+    {
+        "UF": "SP",
+        "Município": "Franca",
+        "Região": "Sudeste",
+        "Nota": "57,51462169",
+        "Colocação": "46",
+        "Delta colocação": "20",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-46"
+    },
+    {
+        "UF": "SP",
+        "Município": "Taubaté",
+        "Região": "Sudeste",
+        "Nota": "57,509885787530095",
+        "Colocação": "47",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-47"
+    },
+    {
+        "UF": "SP",
+        "Município": "Americana",
+        "Região": "Sudeste",
+        "Nota": "57,31498826726009",
+        "Colocação": "49",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-49"
+    },
+    {
+        "UF": "SP",
+        "Município": "Botucatu",
+        "Região": "Sudeste",
+        "Nota": "57,303591073863615",
+        "Colocação": "50",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-50"
+    },
+    {
+        "UF": "SP",
+        "Município": "Assis",
+        "Região": "Sudeste",
+        "Nota": "57,284095706577325",
+        "Colocação": "51",
+        "Delta colocação": "8",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-51"
+    },
+    {
+        "UF": "SP",
+        "Município": "Jacareí",
+        "Região": "Sudeste",
+        "Nota": "57,22018299551556",
+        "Colocação": "52",
+        "Delta colocação": "-9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-52"
+    },
+    {
+        "UF": "SP",
+        "Município": "Atibaia",
+        "Região": "Sudeste",
+        "Nota": "57,15698531432689",
+        "Colocação": "53",
+        "Delta colocação": "11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-53"
+    },
+    {
+        "UF": "SP",
+        "Município": "São João da Boa Vista",
+        "Região": "Sudeste",
+        "Nota": "57,13999512705878",
+        "Colocação": "54",
+        "Delta colocação": "-42",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-54"
+    },
+    {
+        "UF": "SP",
+        "Município": "Araçatuba",
+        "Região": "Sudeste",
+        "Nota": "57,132490510039986",
+        "Colocação": "56",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-56"
+    },
+    {
+        "UF": "SP",
+        "Município": "Santo André",
+        "Região": "Sudeste",
+        "Nota": "57,10817942262792",
+        "Colocação": "57",
+        "Delta colocação": "-7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-57"
+    },
+    {
+        "UF": "SP",
+        "Município": "Bauru",
+        "Região": "Sudeste",
+        "Nota": "57,051209427883045",
+        "Colocação": "59",
+        "Delta colocação": "-2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-59"
+    },
+    {
+        "UF": "SP",
+        "Município": "Praia Grande",
+        "Região": "Sudeste",
+        "Nota": "57,03708707789703",
+        "Colocação": "60",
+        "Delta colocação": "15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-60"
+    },
+    {
+        "UF": "SP",
+        "Município": "Valinhos",
+        "Região": "Sudeste",
+        "Nota": "56,41408854477665",
+        "Colocação": "68",
+        "Delta colocação": "-45",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-68"
+    },
+    {
+        "UF": "SP",
+        "Município": "Hortolândia",
+        "Região": "Sudeste",
+        "Nota": "56,38983039731764",
+        "Colocação": "69",
+        "Delta colocação": "-21",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-69"
+    },
+    {
+        "UF": "SP",
+        "Município": "Marília",
+        "Região": "Sudeste",
+        "Nota": "56,375618386740186",
+        "Colocação": "70",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-70"
+    },
+    {
+        "UF": "SP",
+        "Município": "Presidente Prudente",
+        "Região": "Sudeste",
+        "Nota": "56,35071201183898",
+        "Colocação": "71",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-71"
+    },
+    {
+        "UF": "SP",
+        "Município": "Sertãozinho",
+        "Região": "Sudeste",
+        "Nota": "56,30433407406324",
+        "Colocação": "72",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-72"
+    },
+    {
+        "UF": "SP",
+        "Município": "Caraguatatuba",
+        "Região": "Sudeste",
+        "Nota": "56,036199351463615",
+        "Colocação": "74",
+        "Delta colocação": "18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-74"
+    },
+    {
+        "UF": "SP",
+        "Município": "Paulínia",
+        "Região": "Sudeste",
+        "Nota": "56,00783223593415",
+        "Colocação": "76",
+        "Delta colocação": "-58",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-76"
+    },
+    {
+        "UF": "SP",
+        "Município": "Ourinhos",
+        "Região": "Sudeste",
+        "Nota": "55,44224629732738",
+        "Colocação": "84",
+        "Delta colocação": "64",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-84"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itu",
+        "Região": "Sudeste",
+        "Nota": "55,257413166589785",
+        "Colocação": "89",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-89"
+    },
+    {
+        "UF": "SP",
+        "Município": "Birigui",
+        "Região": "Sudeste",
+        "Nota": "55,21839038",
+        "Colocação": "91",
+        "Delta colocação": "-66",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-91"
+    },
+    {
+        "UF": "SP",
+        "Município": "Leme",
+        "Região": "Sudeste",
+        "Nota": "55,209586811466195",
+        "Colocação": "93",
+        "Delta colocação": "51",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-93"
+    },
+    {
+        "UF": "SP",
+        "Município": "Caieiras",
+        "Região": "Sudeste",
+        "Nota": "55,07867716775113",
+        "Colocação": "94",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-94"
+    },
+    {
+        "UF": "SP",
+        "Município": "Bragança Paulista",
+        "Região": "Sudeste",
+        "Nota": "55,06970548",
+        "Colocação": "95",
+        "Delta colocação": "54",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-95"
+    },
+    {
+        "UF": "SP",
+        "Município": "Pindamonhangaba",
+        "Região": "Sudeste",
+        "Nota": "54,642695653265754",
+        "Colocação": "105",
+        "Delta colocação": "32",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-105"
+    },
+    {
+        "UF": "SP",
+        "Município": "Votorantim",
+        "Região": "Sudeste",
+        "Nota": "54,58712530175157",
+        "Colocação": "106",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-106"
+    },
+    {
+        "UF": "SP",
+        "Município": "Mogi das Cruzes",
+        "Região": "Sudeste",
+        "Nota": "54,509618104558854",
+        "Colocação": "109",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-109"
+    },
+    {
+        "UF": "SP",
+        "Município": "Salto",
+        "Região": "Sudeste",
+        "Nota": "54,49411577001474",
+        "Colocação": "110",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-110"
+    },
+    {
+        "UF": "SP",
+        "Município": "Tatuí",
+        "Região": "Sudeste",
+        "Nota": "54,47517684416066",
+        "Colocação": "111",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-111"
+    },
+    {
+        "UF": "SP",
+        "Município": "Lorena",
+        "Região": "Sudeste",
+        "Nota": "54,447676191114155",
+        "Colocação": "112",
+        "Delta colocação": "29",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-112"
+    },
+    {
+        "UF": "SP",
+        "Município": "Arujá",
+        "Região": "Sudeste",
+        "Nota": "54,388427931450835",
+        "Colocação": "114",
+        "Delta colocação": "-28",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-114"
+    },
+    {
+        "UF": "SP",
+        "Município": "Mogi Guaçu",
+        "Região": "Sudeste",
+        "Nota": "54,094156528335375",
+        "Colocação": "117",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-117"
+    },
+    {
+        "UF": "SP",
+        "Município": "Cotia",
+        "Região": "Sudeste",
+        "Nota": "54,06846637142901",
+        "Colocação": "118",
+        "Delta colocação": "-14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-118"
+    },
+    {
+        "UF": "SP",
+        "Município": "Mogi Mirim",
+        "Região": "Sudeste",
+        "Nota": "54,06682293995536",
+        "Colocação": "119",
+        "Delta colocação": "-57",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-119"
+    },
+    {
+        "UF": "SP",
+        "Município": "Santa Bárbara d'Oeste",
+        "Região": "Sudeste",
+        "Nota": "53,90830172909363",
+        "Colocação": "124",
+        "Delta colocação": "-40",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-124"
+    },
+    {
+        "UF": "SP",
+        "Município": "Matão",
+        "Região": "Sudeste",
+        "Nota": "53,714452842934286",
+        "Colocação": "130",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-130"
+    },
+    {
+        "UF": "SP",
+        "Município": "Ribeirão Pires",
+        "Região": "Sudeste",
+        "Nota": "53,31833811084624",
+        "Colocação": "137",
+        "Delta colocação": "30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-137"
+    },
+    {
+        "UF": "SP",
+        "Município": "Guaratinguetá",
+        "Região": "Sudeste",
+        "Nota": "53,24310503751254",
+        "Colocação": "138",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-138"
+    },
+    {
+        "UF": "SP",
+        "Município": "Jandira",
+        "Região": "Sudeste",
+        "Nota": "53,20942948",
+        "Colocação": "139",
+        "Delta colocação": "27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-139"
+    },
+    {
+        "UF": "SP",
+        "Município": "Avaré",
+        "Região": "Sudeste",
+        "Nota": "53,04797282757459",
+        "Colocação": "141",
+        "Delta colocação": "-53",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-141"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itapetininga",
+        "Região": "Sudeste",
+        "Nota": "53,02233027332085",
+        "Colocação": "143",
+        "Delta colocação": "16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-143"
+    },
+    {
+        "UF": "SP",
+        "Município": "Guarulhos",
+        "Região": "Sudeste",
+        "Nota": "52,14378563",
+        "Colocação": "159",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-159"
+    },
+    {
+        "UF": "SP",
+        "Município": "Caçapava",
+        "Região": "Sudeste",
+        "Nota": "52,04019096044374",
+        "Colocação": "163",
+        "Delta colocação": "-13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-163"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Roque",
+        "Região": "Sudeste",
+        "Nota": "51,97185012499105",
+        "Colocação": "165",
+        "Delta colocação": "46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-165"
+    },
+    {
+        "UF": "SP",
+        "Município": "Taboão da Serra",
+        "Região": "Sudeste",
+        "Nota": "51,94107672972733",
+        "Colocação": "166",
+        "Delta colocação": "-40",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-166"
+    },
+    {
+        "UF": "SP",
+        "Município": "Suzano",
+        "Região": "Sudeste",
+        "Nota": "51,78776915125807",
+        "Colocação": "171",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-171"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Sebastião",
+        "Região": "Sudeste",
+        "Nota": "51,677377898665966",
+        "Colocação": "175",
+        "Delta colocação": "-43",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-175"
+    },
+    {
+        "UF": "SP",
+        "Município": "Sumaré",
+        "Região": "Sudeste",
+        "Nota": "51,67572384426496",
+        "Colocação": "176",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-176"
+    },
+    {
+        "UF": "SP",
+        "Município": "Guarujá",
+        "Região": "Sudeste",
+        "Nota": "51,35085402771413",
+        "Colocação": "183",
+        "Delta colocação": "14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-183"
+    },
+    {
+        "UF": "SP",
+        "Município": "Diadema",
+        "Região": "Sudeste",
+        "Nota": "51,30170893799169",
+        "Colocação": "185",
+        "Delta colocação": "-24",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-185"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itapevi",
+        "Região": "Sudeste",
+        "Nota": "51,27982670810518",
+        "Colocação": "186",
+        "Delta colocação": "-15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-186"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itanhaém",
+        "Região": "Sudeste",
+        "Nota": "51,14101968459565",
+        "Colocação": "187",
+        "Delta colocação": "-14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-187"
+    },
+    {
+        "UF": "SP",
+        "Município": "Jaú",
+        "Região": "Sudeste",
+        "Nota": "50,99787442221524",
+        "Colocação": "191",
+        "Delta colocação": "-26",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-191"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itapeva",
+        "Região": "Sudeste",
+        "Nota": "50,78166395738392",
+        "Colocação": "194",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-194"
+    },
+    {
+        "UF": "SP",
+        "Município": "Franco da Rocha",
+        "Região": "Sudeste",
+        "Nota": "50,49914335823694",
+        "Colocação": "203",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-203"
+    },
+    {
+        "UF": "SP",
+        "Município": "Mairiporã",
+        "Região": "Sudeste",
+        "Nota": "50,355006991320366",
+        "Colocação": "210",
+        "Delta colocação": "59",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-210"
+    },
+    {
+        "UF": "SP",
+        "Município": "Cubatão",
+        "Região": "Sudeste",
+        "Nota": "50,16887160992437",
+        "Colocação": "213",
+        "Delta colocação": "-41",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-213"
+    },
+    {
+        "UF": "SP",
+        "Município": "Poá",
+        "Região": "Sudeste",
+        "Nota": "50,08787233576194",
+        "Colocação": "214",
+        "Delta colocação": "-74",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-214"
+    },
+    {
+        "UF": "SP",
+        "Município": "Rio Claro",
+        "Região": "Sudeste",
+        "Nota": "49,543216632646185",
+        "Colocação": "220",
+        "Delta colocação": "-77",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-220"
+    },
+    {
+        "UF": "SP",
+        "Município": "Ubatuba",
+        "Região": "Sudeste",
+        "Nota": "49,44907954803355",
+        "Colocação": "223",
+        "Delta colocação": "7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-223"
+    },
+    {
+        "UF": "SP",
+        "Município": "Várzea Paulista",
+        "Região": "Sudeste",
+        "Nota": "49,137379137359794",
+        "Colocação": "228",
+        "Delta colocação": "-33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-228"
+    },
+    {
+        "UF": "SP",
+        "Município": "São Vicente",
+        "Região": "Sudeste",
+        "Nota": "48,819569840423426",
+        "Colocação": "230",
+        "Delta colocação": "-9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-230"
+    },
+    {
+        "UF": "SP",
+        "Município": "Mauá",
+        "Região": "Sudeste",
+        "Nota": "48,57889698065657",
+        "Colocação": "233",
+        "Delta colocação": "-33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-233"
+    },
+    {
+        "UF": "SP",
+        "Município": "Francisco Morato",
+        "Região": "Sudeste",
+        "Nota": "48,42022979",
+        "Colocação": "234",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-234"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itapecerica da Serra",
+        "Região": "Sudeste",
+        "Nota": "47,95069235",
+        "Colocação": "247",
+        "Delta colocação": "-16",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-247"
+    },
+    {
+        "UF": "SP",
+        "Município": "Campo Limpo Paulista",
+        "Região": "Sudeste",
+        "Nota": "47,79250460244675",
+        "Colocação": "252",
+        "Delta colocação": "-69",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-252"
+    },
+    {
+        "UF": "SP",
+        "Município": "Ferraz de Vasconcelos",
+        "Região": "Sudeste",
+        "Nota": "47,46963050342082",
+        "Colocação": "257",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-257"
+    },
+    {
+        "UF": "SP",
+        "Município": "Carapicuíba",
+        "Região": "Sudeste",
+        "Nota": "46,906057624295826",
+        "Colocação": "275",
+        "Delta colocação": "-40",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-275"
+    },
+    {
+        "UF": "SP",
+        "Município": "Itaquaquecetuba",
+        "Região": "Sudeste",
+        "Nota": "46,60179170903547",
+        "Colocação": "283",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-283"
+    },
+    {
+        "UF": "SP",
+        "Município": "Embu das Artes",
+        "Região": "Sudeste",
+        "Nota": "46,54289285264507",
+        "Colocação": "285",
+        "Delta colocação": "-27",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-285"
+    },
+    {
+        "UF": "SP",
+        "Município": "Cruzeiro",
+        "Região": "Sudeste",
+        "Nota": "45,76586673923689",
+        "Colocação": "295",
+        "Delta colocação": "-46",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-295"
+    },
+    {
+        "UF": "PR",
+        "Município": "Almirante Tamandaré",
+        "Região": "Sul",
+        "Nota": "46,28171813640324",
+        "Colocação": "291",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-291"
+    },
+    {
+        "UF": "PR",
+        "Município": "Apucarana",
+        "Região": "Sul",
+        "Nota": "53,14624184137298",
+        "Colocação": "140",
+        "Delta colocação": "-37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-140"
+    },
+    {
+        "UF": "PR",
+        "Município": "Arapongas",
+        "Região": "Sul",
+        "Nota": "50,22274613250319",
+        "Colocação": "211",
+        "Delta colocação": "-80",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-211"
+    },
+    {
+        "UF": "PR",
+        "Município": "Araucária",
+        "Região": "Sul",
+        "Nota": "54,65450384863358",
+        "Colocação": "104",
+        "Delta colocação": "60",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-104"
+    },
+    {
+        "UF": "PR",
+        "Município": "Cambé",
+        "Região": "Sul",
+        "Nota": "52,242130863149676",
+        "Colocação": "157",
+        "Delta colocação": "-44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-157"
+    },
+    {
+        "UF": "PR",
+        "Município": "Campo Largo",
+        "Região": "Sul",
+        "Nota": "51,542718532619645",
+        "Colocação": "179",
+        "Delta colocação": "33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-179"
+    },
+    {
+        "UF": "PR",
+        "Município": "Campo Mourão",
+        "Região": "Sul",
+        "Nota": "55,83010059898699",
+        "Colocação": "77",
+        "Delta colocação": "51",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-77"
+    },
+    {
+        "UF": "PR",
+        "Município": "Cascavel",
+        "Região": "Sul",
+        "Nota": "57,93731102897199",
+        "Colocação": "39",
+        "Delta colocação": "40",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-39"
+    },
+    {
+        "UF": "PR",
+        "Município": "Cianorte",
+        "Região": "Sul",
+        "Nota": "53,95552816243094",
+        "Colocação": "123",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-123"
+    },
+    {
+        "UF": "PR",
+        "Município": "Colombo",
+        "Região": "Sul",
+        "Nota": "51,309939553257195",
+        "Colocação": "184",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-184"
+    },
+    {
+        "UF": "PR",
+        "Município": "Curitiba",
+        "Região": "Sul",
+        "Nota": "63,73551913733627",
+        "Colocação": "6",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-6"
+    },
+    {
+        "UF": "PR",
+        "Município": "Fazenda Rio Grande",
+        "Região": "Sul",
+        "Nota": "51,02527816",
+        "Colocação": "189",
+        "Delta colocação": "44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-189"
+    },
+    {
+        "UF": "PR",
+        "Município": "Foz do Iguaçu",
+        "Região": "Sul",
+        "Nota": "55,00863741804783",
+        "Colocação": "97",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-97"
+    },
+    {
+        "UF": "PR",
+        "Município": "Francisco Beltrão",
+        "Região": "Sul",
+        "Nota": "58,39549400827587",
+        "Colocação": "31",
+        "Delta colocação": "23",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-31"
+    },
+    {
+        "UF": "PR",
+        "Município": "Guarapuava",
+        "Região": "Sul",
+        "Nota": "52,52745112292326",
+        "Colocação": "154",
+        "Delta colocação": "14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-154"
+    },
+    {
+        "UF": "PR",
+        "Município": "Londrina",
+        "Região": "Sul",
+        "Nota": "57,958551674517246",
+        "Colocação": "37",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-37"
+    },
+    {
+        "UF": "PR",
+        "Município": "Maringá",
+        "Região": "Sul",
+        "Nota": "59,85880376965364",
+        "Colocação": "17",
+        "Delta colocação": "5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-17"
+    },
+    {
+        "UF": "PR",
+        "Município": "Paranaguá",
+        "Região": "Sul",
+        "Nota": "50,061470038346016",
+        "Colocação": "215",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-215"
+    },
+    {
+        "UF": "PR",
+        "Município": "Paranavaí",
+        "Região": "Sul",
+        "Nota": "55,82921251968365",
+        "Colocação": "78",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-78"
+    },
+    {
+        "UF": "PR",
+        "Município": "Pato Branco",
+        "Região": "Sul",
+        "Nota": "56,87470112814654",
+        "Colocação": "63",
+        "Delta colocação": "-22",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-63"
+    },
+    {
+        "UF": "PR",
+        "Município": "Pinhais",
+        "Região": "Sul",
+        "Nota": "54,047364937399976",
+        "Colocação": "120",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-120"
+    },
+    {
+        "UF": "PR",
+        "Município": "Piraquara",
+        "Região": "Sul",
+        "Nota": "46,77266999084415",
+        "Colocação": "277",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-277"
+    },
+    {
+        "UF": "PR",
+        "Município": "Ponta Grossa",
+        "Região": "Sul",
+        "Nota": "55,02301312861631",
+        "Colocação": "96",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-96"
+    },
+    {
+        "UF": "PR",
+        "Município": "São José dos Pinhais",
+        "Região": "Sul",
+        "Nota": "54,67117440260472",
+        "Colocação": "103",
+        "Delta colocação": "49",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-103"
+    },
+    {
+        "UF": "PR",
+        "Município": "Sarandi",
+        "Região": "Sul",
+        "Nota": "44,71918335",
+        "Colocação": "312",
+        "Delta colocação": "-36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-312"
+    },
+    {
+        "UF": "PR",
+        "Município": "Toledo",
+        "Região": "Sul",
+        "Nota": "57,10704873647114",
+        "Colocação": "58",
+        "Delta colocação": "3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-58"
+    },
+    {
+        "UF": "PR",
+        "Município": "Umuarama",
+        "Região": "Sul",
+        "Nota": "55,22768094834418",
+        "Colocação": "90",
+        "Delta colocação": "9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-90"
+    },
+    {
+        "UF": "SC",
+        "Município": "Balneário Camboriú",
+        "Região": "Sul",
+        "Nota": "59,32218892212475",
+        "Colocação": "21",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-21"
+    },
+    {
+        "UF": "SC",
+        "Município": "Blumenau",
+        "Região": "Sul",
+        "Nota": "59,65161005046211",
+        "Colocação": "18",
+        "Delta colocação": "17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-18"
+    },
+    {
+        "UF": "SC",
+        "Município": "Brusque",
+        "Região": "Sul",
+        "Nota": "56,29134096920036",
+        "Colocação": "73",
+        "Delta colocação": "4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-73"
+    },
+    {
+        "UF": "SC",
+        "Município": "Camboriú",
+        "Região": "Sul",
+        "Nota": "50,59174129058477",
+        "Colocação": "200",
+        "Delta colocação": "43",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-200"
+    },
+    {
+        "UF": "SC",
+        "Município": "Chapecó",
+        "Região": "Sul",
+        "Nota": "58,015768096100125",
+        "Colocação": "35",
+        "Delta colocação": "33",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-35"
+    },
+    {
+        "UF": "SC",
+        "Município": "Criciúma",
+        "Região": "Sul",
+        "Nota": "58,84694650278768",
+        "Colocação": "27",
+        "Delta colocação": "54",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-27"
+    },
+    {
+        "UF": "SC",
+        "Município": "Florianópolis",
+        "Região": "Sul",
+        "Nota": "64,57645567428811",
+        "Colocação": "3",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-3"
+    },
+    {
+        "UF": "SC",
+        "Município": "Itajaí",
+        "Região": "Sul",
+        "Nota": "57,82532391194643",
+        "Colocação": "40",
+        "Delta colocação": "13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-40"
+    },
+    {
+        "UF": "SC",
+        "Município": "Jaraguá do Sul",
+        "Região": "Sul",
+        "Nota": "61,27461363414189",
+        "Colocação": "10",
+        "Delta colocação": "18",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-10"
+    },
+    {
+        "UF": "SC",
+        "Município": "Joinville",
+        "Região": "Sul",
+        "Nota": "58,856946122329205",
+        "Colocação": "26",
+        "Delta colocação": "20",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-26"
+    },
+    {
+        "UF": "SC",
+        "Município": "Lages",
+        "Região": "Sul",
+        "Nota": "55,53075246668216",
+        "Colocação": "81",
+        "Delta colocação": "48",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-81"
+    },
+    {
+        "UF": "SC",
+        "Município": "Navegantes",
+        "Região": "Sul",
+        "Nota": "52,326072409327935",
+        "Colocação": "155",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-155"
+    },
+    {
+        "UF": "SC",
+        "Município": "Palhoça",
+        "Região": "Sul",
+        "Nota": "50,66805514845528",
+        "Colocação": "197",
+        "Delta colocação": "-74",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-197"
+    },
+    {
+        "UF": "SC",
+        "Município": "São Bento do Sul",
+        "Região": "Sul",
+        "Nota": "57,42595153822871",
+        "Colocação": "48",
+        "Delta colocação": "15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-48"
+    },
+    {
+        "UF": "SC",
+        "Município": "São José",
+        "Região": "Sul",
+        "Nota": "54,161129841284875",
+        "Colocação": "115",
+        "Delta colocação": "20",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-115"
+    },
+    {
+        "UF": "SC",
+        "Município": "Tubarão",
+        "Região": "Sul",
+        "Nota": "53,99811625854865",
+        "Colocação": "121",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-121"
+    },
+    {
+        "UF": "RS",
+        "Município": "Alvorada",
+        "Região": "Sul",
+        "Nota": "45,55359687736543",
+        "Colocação": "299",
+        "Delta colocação": "-26",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-299"
+    },
+    {
+        "UF": "RS",
+        "Município": "Bagé",
+        "Região": "Sul",
+        "Nota": "47,07539310184552",
+        "Colocação": "270",
+        "Delta colocação": "-3",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-270"
+    },
+    {
+        "UF": "RS",
+        "Município": "Bento Gonçalves",
+        "Região": "Sul",
+        "Nota": "54,15996574738078",
+        "Colocação": "116",
+        "Delta colocação": "-65",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-116"
+    },
+    {
+        "UF": "RS",
+        "Município": "Cachoeira do Sul",
+        "Região": "Sul",
+        "Nota": "46,457570056875554",
+        "Colocação": "287",
+        "Delta colocação": "-70",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-287"
+    },
+    {
+        "UF": "RS",
+        "Município": "Cachoeirinha",
+        "Região": "Sul",
+        "Nota": "48,318955020576354",
+        "Colocação": "238",
+        "Delta colocação": "-12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-238"
+    },
+    {
+        "UF": "RS",
+        "Município": "Canoas",
+        "Região": "Sul",
+        "Nota": "51,918234464652045",
+        "Colocação": "167",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-167"
+    },
+    {
+        "UF": "RS",
+        "Município": "Caxias do Sul",
+        "Região": "Sul",
+        "Nota": "58,08801895290358",
+        "Colocação": "34",
+        "Delta colocação": "13",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-34"
+    },
+    {
+        "UF": "RS",
+        "Município": "Erechim",
+        "Região": "Sul",
+        "Nota": "55,21645549351893",
+        "Colocação": "92",
+        "Delta colocação": "-12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-92"
+    },
+    {
+        "UF": "RS",
+        "Município": "Esteio",
+        "Região": "Sul",
+        "Nota": "48,19266191708648",
+        "Colocação": "242",
+        "Delta colocação": "-48",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-242"
+    },
+    {
+        "UF": "RS",
+        "Município": "Gravataí",
+        "Região": "Sul",
+        "Nota": "50,58838502887516",
+        "Colocação": "201",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-201"
+    },
+    {
+        "UF": "RS",
+        "Município": "Guaíba",
+        "Região": "Sul",
+        "Nota": "46,69405793687964",
+        "Colocação": "280",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-280"
+    },
+    {
+        "UF": "RS",
+        "Município": "Ijuí",
+        "Região": "Sul",
+        "Nota": "56,795365043080416",
+        "Colocação": "64",
+        "Delta colocação": "1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-64"
+    },
+    {
+        "UF": "RS",
+        "Município": "Lajeado",
+        "Região": "Sul",
+        "Nota": "58,659826594455254",
+        "Colocação": "30",
+        "Delta colocação": "7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-30"
+    },
+    {
+        "UF": "RS",
+        "Município": "Novo Hamburgo",
+        "Região": "Sul",
+        "Nota": "53,71981494986591",
+        "Colocação": "129",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-129"
+    },
+    {
+        "UF": "RS",
+        "Município": "Passo Fundo",
+        "Região": "Sul",
+        "Nota": "52,30196911539801",
+        "Colocação": "156",
+        "Delta colocação": "-5",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-156"
+    },
+    {
+        "UF": "RS",
+        "Município": "Pelotas",
+        "Região": "Sul",
+        "Nota": "52,04672049199015",
+        "Colocação": "162",
+        "Delta colocação": "15",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-162"
+    },
+    {
+        "UF": "RS",
+        "Município": "Porto Alegre",
+        "Região": "Sul",
+        "Nota": "62,488434007549195",
+        "Colocação": "8",
+        "Delta colocação": "2",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-8"
+    },
+    {
+        "UF": "RS",
+        "Município": "Rio Grande",
+        "Região": "Sul",
+        "Nota": "47,79617753149272",
+        "Colocação": "251",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-251"
+    },
+    {
+        "UF": "RS",
+        "Município": "Santa Cruz do Sul",
+        "Região": "Sul",
+        "Nota": "53,37846469886982",
+        "Colocação": "135",
+        "Delta colocação": "19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-135"
+    },
+    {
+        "UF": "RS",
+        "Município": "Santa Maria",
+        "Região": "Sul",
+        "Nota": "54,954447963667896",
+        "Colocação": "98",
+        "Delta colocação": "-20",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-98"
+    },
+    {
+        "UF": "RS",
+        "Município": "São Leopoldo",
+        "Região": "Sul",
+        "Nota": "53,03329956659654",
+        "Colocação": "142",
+        "Delta colocação": "-9",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-142"
+    },
+    {
+        "UF": "RS",
+        "Município": "Sapiranga",
+        "Região": "Sul",
+        "Nota": "49,63028281105298",
+        "Colocação": "218",
+        "Delta colocação": "-19",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-218"
+    },
+    {
+        "UF": "RS",
+        "Município": "Sapucaia do Sul",
+        "Região": "Sul",
+        "Nota": "47,74758216648068",
+        "Colocação": "253",
+        "Delta colocação": "-35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-253"
+    },
+    {
+        "UF": "RS",
+        "Município": "Uruguaiana",
+        "Região": "Sul",
+        "Nota": "41,970275788012614",
+        "Colocação": "350",
+        "Delta colocação": "-36",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-350"
+    },
+    {
+        "UF": "RS",
+        "Município": "Viamão",
+        "Região": "Sul",
+        "Nota": "43,015004167987605",
+        "Colocação": "337",
+        "Delta colocação": "-12",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-337"
+    },
+    {
+        "UF": "MS",
+        "Município": "Campo Grande",
+        "Região": "Centro-Oeste",
+        "Nota": "54,75930403381292",
+        "Colocação": "99",
+        "Delta colocação": "-6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-99"
+    },
+    {
+        "UF": "MS",
+        "Município": "Corumbá",
+        "Região": "Centro-Oeste",
+        "Nota": "44,92903621050784",
+        "Colocação": "306",
+        "Delta colocação": "-17",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-306"
+    },
+    {
+        "UF": "MS",
+        "Município": "Dourados",
+        "Região": "Centro-Oeste",
+        "Nota": "52,946567437086316",
+        "Colocação": "144",
+        "Delta colocação": "48",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-144"
+    },
+    {
+        "UF": "MS",
+        "Município": "Ponta Porã",
+        "Região": "Centro-Oeste",
+        "Nota": "41,76514261980149",
+        "Colocação": "353",
+        "Delta colocação": "-35",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-353"
+    },
+    {
+        "UF": "MS",
+        "Município": "Três Lagoas",
+        "Região": "Centro-Oeste",
+        "Nota": "55,35042746454821",
+        "Colocação": "87",
+        "Delta colocação": "24",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-87"
+    },
+    {
+        "UF": "MT",
+        "Município": "Cáceres",
+        "Região": "Centro-Oeste",
+        "Nota": "45,46747853882165",
+        "Colocação": "301",
+        "Delta colocação": "10",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-301"
+    },
+    {
+        "UF": "MT",
+        "Município": "Cuiabá",
+        "Região": "Centro-Oeste",
+        "Nota": "54,68000766396682",
+        "Colocação": "102",
+        "Delta colocação": "7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-102"
+    },
+    {
+        "UF": "MT",
+        "Município": "Rondonópolis",
+        "Região": "Centro-Oeste",
+        "Nota": "53,862438140367225",
+        "Colocação": "125",
+        "Delta colocação": "31",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-125"
+    },
+    {
+        "UF": "MT",
+        "Município": "Sinop",
+        "Região": "Centro-Oeste",
+        "Nota": "53,99529680711844",
+        "Colocação": "122",
+        "Delta colocação": "0",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-122"
+    },
+    {
+        "UF": "MT",
+        "Município": "Sorriso",
+        "Região": "Centro-Oeste",
+        "Nota": "52,10540029304502",
+        "Colocação": "161",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-161"
+    },
+    {
+        "UF": "MT",
+        "Município": "Tangará da Serra",
+        "Região": "Centro-Oeste",
+        "Nota": "50,75302136190231",
+        "Colocação": "195",
+        "Delta colocação": "55",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-195"
+    },
+    {
+        "UF": "MT",
+        "Município": "Várzea Grande",
+        "Região": "Centro-Oeste",
+        "Nota": "46,715613149265444",
+        "Colocação": "279",
+        "Delta colocação": "-14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-279"
+    },
+    {
+        "UF": "GO",
+        "Município": "Águas Lindas de Goiás",
+        "Região": "Centro-Oeste",
+        "Nota": "44,32325505186829",
+        "Colocação": "319",
+        "Delta colocação": "26",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-319"
+    },
+    {
+        "UF": "GO",
+        "Município": "Anápolis",
+        "Região": "Centro-Oeste",
+        "Nota": "48,66555688424474",
+        "Colocação": "231",
+        "Delta colocação": "-4",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-231"
+    },
+    {
+        "UF": "GO",
+        "Município": "Aparecida de Goiânia",
+        "Região": "Centro-Oeste",
+        "Nota": "50,38562556",
+        "Colocação": "209",
+        "Delta colocação": "-7",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-209"
+    },
+    {
+        "UF": "GO",
+        "Município": "Caldas Novas",
+        "Região": "Centro-Oeste",
+        "Nota": "42,67782809647522",
+        "Colocação": "344",
+        "Delta colocação": "-44",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-344"
+    },
+    {
+        "UF": "GO",
+        "Município": "Catalão",
+        "Região": "Centro-Oeste",
+        "Nota": "50,491465291688634",
+        "Colocação": "204",
+        "Delta colocação": "-14",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-204"
+    },
+    {
+        "UF": "GO",
+        "Município": "Formosa",
+        "Região": "Centro-Oeste",
+        "Nota": "41,60494835899554",
+        "Colocação": "356",
+        "Delta colocação": "-47",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-356"
+    },
+    {
+        "UF": "GO",
+        "Município": "Goiânia",
+        "Região": "Centro-Oeste",
+        "Nota": "55,69788881146989",
+        "Colocação": "79",
+        "Delta colocação": "11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-79"
+    },
+    {
+        "UF": "GO",
+        "Município": "Itumbiara",
+        "Região": "Centro-Oeste",
+        "Nota": "49,66513164",
+        "Colocação": "217",
+        "Delta colocação": "6",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-217"
+    },
+    {
+        "UF": "GO",
+        "Município": "Jataí",
+        "Região": "Centro-Oeste",
+        "Nota": "50,65252655350824",
+        "Colocação": "198",
+        "Delta colocação": "-51",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-198"
+    },
+    {
+        "UF": "GO",
+        "Município": "Luziânia",
+        "Região": "Centro-Oeste",
+        "Nota": "39,47643066270244",
+        "Colocação": "373",
+        "Delta colocação": "-11",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-373"
+    },
+    {
+        "UF": "GO",
+        "Município": "Novo Gama",
+        "Região": "Centro-Oeste",
+        "Nota": "42,5229404",
+        "Colocação": "347",
+        "Delta colocação": "-1",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-347"
+    },
+    {
+        "UF": "GO",
+        "Município": "Planaltina",
+        "Região": "Centro-Oeste",
+        "Nota": "42,69926655566434",
+        "Colocação": "343",
+        "Delta colocação": "45",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-343"
+    },
+    {
+        "UF": "GO",
+        "Município": "Rio Verde",
+        "Região": "Centro-Oeste",
+        "Nota": "52,80710123844269",
+        "Colocação": "149",
+        "Delta colocação": "30",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-149"
+    },
+    {
+        "UF": "GO",
+        "Município": "Senador Canedo",
+        "Região": "Centro-Oeste",
+        "Nota": "44,887053733303894",
+        "Colocação": "308",
+        "Delta colocação": "34",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-308"
+    },
+    {
+        "UF": "GO",
+        "Município": "Trindade",
+        "Região": "Centro-Oeste",
+        "Nota": "47,62057617791027",
+        "Colocação": "255",
+        "Delta colocação": "50",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-255"
+    },
+    {
+        "UF": "GO",
+        "Município": "Valparaíso de Goiás",
+        "Região": "Centro-Oeste",
+        "Nota": "46,97789816368022",
+        "Colocação": "273",
+        "Delta colocação": "37",
+        "Data": "jun./2021",
+        "Colocação ranking geral invertido": "-273"
+    }
+]

@@ -1,0 +1,2306 @@
+[
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 28345
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5771
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 50446
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 62177
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 140622
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 311323
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 6
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 194
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 5712
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 110
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 1
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 50
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 103
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1188
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 117422
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 12
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 9
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 54
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 87
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 745
+    },
+    {
+        "Data": "2022-01-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 3004
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 21278
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5519
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 36956
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 46746
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 92817
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 230959
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 321
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 5607
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 290
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 185
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 240
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1350
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 91364
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 5
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 24
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 20
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 253
+    },
+    {
+        "Data": "2022-02-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 1199
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 22297
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 4927
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 37976
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 47604
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 92815
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 236252
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 331
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 5971
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 1376
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 21
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 2478
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 2493
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 8367
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 137040
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 116
+    },
+    {
+        "Data": "2022-03-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 109
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18608
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5771
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 35355
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 47151
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 83119
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 228903
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 522
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 8837
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 384
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 618
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 592
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 3336
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 118215
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 41
+    },
+    {
+        "Data": "2022-04-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 323
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 20057
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5565
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 34157
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 45564
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 77496
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 235384
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 480
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 8516
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 565
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 35
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 377
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 628
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 3423
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 121254
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 10
+    },
+    {
+        "Data": "2022-05-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 267
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18593
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 7111
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 31647
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 41920
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 66313
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 205008
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 4
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 10
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 645
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 7971
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 432
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 157
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 258
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 529
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2112
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 116628
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 10
+    },
+    {
+        "Data": "2022-06-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 710
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 26223
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 8691
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 42811
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 57289
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 90776
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 271465
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 880
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 9892
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 501
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 246
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 351
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 1233
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 3713
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 128589
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 17
+    },
+    {
+        "Data": "2022-07-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 740
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 22340
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5992
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 42114
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 54793
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 93439
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 247462
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 6
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 630
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 8865
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 303
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 59
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 357
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 593
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1756
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 126681
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 25
+    },
+    {
+        "Data": "2022-08-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 580
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 16927
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5021
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 39776
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 49111
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 90548
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 230408
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 9
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 707
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 7728
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 63
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 1
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 333
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 871
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2462
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 106305
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 34
+    },
+    {
+        "Data": "2022-09-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 396
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18359
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 5020
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 40699
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 52622
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 101230
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 245732
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 568
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 8723
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 208
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 1
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 329
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 1010
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2535
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 99974
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 67
+    },
+    {
+        "Data": "2022-10-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 486
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18979
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 3766
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 45190
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 53161
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 92416
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 232746
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 474
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 7943
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 1130
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 225
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 704
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 2066
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 93541
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 11
+    },
+    {
+        "Data": "2022-11-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 177
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 18776
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 4245
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 41715
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 53458
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 91022
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 229090
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 156
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 1128
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Sem Escala",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 8614
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 63
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 362
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 737
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 3020
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Doméstico",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 117963
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Juazeiro do Norte",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Campina Grande",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Aracaju",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "João Pessoa",
+        "Passageiros": 0
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Maceió",
+        "Passageiros": 6
+    },
+    {
+        "Data": "2022-12-01",
+        "Classificacao da Viagem": "Internacional",
+        "Escala": "Conexão",
+        "Tipo": "Embarque",
+        "Aeroporto": "Recife",
+        "Passageiros": 495
+    }
+]

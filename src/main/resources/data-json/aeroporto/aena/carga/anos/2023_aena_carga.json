@@ -1,0 +1,1298 @@
+[
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 503
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 43
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 202
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 40
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 1120
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 136
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1273
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 6
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 199
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 2246
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 36
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 152
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7598
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 120
+    },
+    {
+        "Data": "2023-01-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4417
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 467
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 43
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 152
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 32
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 843
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 2
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 138
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 919
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 9
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 239
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1528
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 32
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 215
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 6179
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 123
+    },
+    {
+        "Data": "2023-02-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4187
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 533
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 45
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 200
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 2
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 42
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 909
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 173
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 939
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 11
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 522
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1480
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 26
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 225
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 6543
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 146
+    },
+    {
+        "Data": "2023-03-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4563
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 515
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 46
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 166
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 36
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 887
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 120
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 963
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 11
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 161
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1508
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 36
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 214
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 5756
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 122
+    },
+    {
+        "Data": "2023-04-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 3924
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 673
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 50
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 242
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 46
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 879
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 6
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 136
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 994
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 7
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 325
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1514
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 26
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 204
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 6224
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 106
+    },
+    {
+        "Data": "2023-05-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 3257
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 569
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 48
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 507
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 62
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 864
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 2
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 134
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 994
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 10
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 166
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1541
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 24
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 316
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 6458
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 143
+    },
+    {
+        "Data": "2023-06-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 3585
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 714
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 41
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 402
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 64
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 1161
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 121
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1150
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 10
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 166
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1827
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 32
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 290
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7784
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 177
+    },
+    {
+        "Data": "2023-07-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4328
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 662
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 53
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 445
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 66
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 980
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 128
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1119
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 9
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 180
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1673
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 38
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 325
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7166
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 191
+    },
+    {
+        "Data": "2023-08-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4376
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 594
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 46
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 437
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 59
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 1051
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 174
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1096
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 10
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 224
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1688
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 29
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 363
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7042
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 170
+    },
+    {
+        "Data": "2023-09-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4471
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 647
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 49
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 493
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 55
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 1082
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 170
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1200
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 9
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 239
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1918
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 27
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 363
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7124
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 173
+    },
+    {
+        "Data": "2023-10-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4471
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 590
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 73
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 426
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 50
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 985
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 174
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1168
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 9
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 213
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 1813
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 35
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 397
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 6928
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 181
+    },
+    {
+        "Data": "2023-11-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4608
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 597
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Juazeiro do Norte",
+        "Quantidade": 48
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 459
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Campina Grande",
+        "Quantidade": 25
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 1185
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 0
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Aracaju",
+        "Quantidade": 136
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 1376
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 10
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "João Pessoa",
+        "Quantidade": 183
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Maceió",
+        "Quantidade": 2375
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Maceió",
+        "Quantidade": 37
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Maceió",
+        "Quantidade": 298
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Doméstico",
+        "Aeroporto": "Recife",
+        "Quantidade": 7849
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Internacional",
+        "Aeroporto": "Recife",
+        "Quantidade": 211
+    },
+    {
+        "Data": "2023-12-01",
+        "Tipo": "Carga(TON)",
+        "Aeroporto": "Recife",
+        "Quantidade": 4905
+    }
+]
