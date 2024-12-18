@@ -9,20 +9,33 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
-import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 
 @Configuration
-@EnableWebSecurity
 public class SecurityConfig {
 
     @Bean
+    public WebMvcConfigurer corsConfigurer() {
+        return new WebMvcConfigurer() {
+            @Override
+            public void addCorsMappings(CorsRegistry registry) {
+                registry.addMapping("/**")
+                        .allowedOrigins("http://localhost:3000", "https://observatorio-recife.vercel.app") // Ajuste as origens
+                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
+                        .allowCredentials(true); // Permite envio de cookies/credenciais
+            }
+        };
+    }
+
+    @Bean
     public UserDetailsService userDetailsService() {
-        // Criando um usuário em memória com autenticação básica
-        User.UserBuilder users = User.withUsername("usuario");
+        // Usuário em memória para testes e desenvolvimento
+        User.UserBuilder users = User.withUsername("italo");
         return new InMemoryUserDetailsManager(
-                users.password(passwordEncoder().encode("senha123"))
+                users.password(passwordEncoder().encode("observatorio"))
                         .roles("USER")
                         .build()
         );
@@ -30,18 +43,20 @@ public class SecurityConfig {
 
     @Bean
     public PasswordEncoder passwordEncoder() {
-        return new BCryptPasswordEncoder();  // Para criptografar senhas
+        return new BCryptPasswordEncoder();
     }
 
     @Bean
     public SecurityFilterChain security(HttpSecurity http) throws Exception {
         http
+                .cors(withDefaults()) // Ativa CORS conforme configurado no WebMvcConfigurer
+                .csrf(csrf -> csrf.disable()) // Desativa CSRF para APIs REST
                 .authorizeHttpRequests(authorizeRequests ->
                         authorizeRequests
-                                .requestMatchers("/api/indicadores").authenticated()  // Exige login para acessar /api/indicadores
-                                .anyRequest().permitAll()  // Outros endpoints são públicos
+                                .requestMatchers("/api/v1/aeroporto/**").authenticated() // Protege endpoints do aeroporto
+                                .anyRequest().permitAll() // Outros endpoints públicos
                 )
-                .httpBasic(withDefaults());  // Autenticação básica sem o método deprecated
+                .httpBasic(withDefaults()); // Configuração de autenticação básica
 
         return http.build();
     }
