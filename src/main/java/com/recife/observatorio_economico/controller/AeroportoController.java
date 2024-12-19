@@ -11,7 +11,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/v1/aeroporto")
-public class IndicadorEconomicoController {
+public class AeroportoController {
 
     private final ObjectMapper objectMapper = new ObjectMapper();
 
@@ -42,7 +42,7 @@ public class IndicadorEconomicoController {
 
     @GetMapping("/aena/carga/embarque/{ano}")
     public ResponseEntity<?> getAenaCargaEmbarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/carga/embarque/%s_aena_carga_embarque.json", ano);
+        String filePath = String.format("data-json/aeroporto/aena/carga/embarque_desembarque/embarque/%s_aena_carga_embarque.json", ano);
         return loadJsonResponse(filePath);
     }
 
