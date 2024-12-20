@@ -36,19 +36,7 @@ public class AeroportoController {
     // -------------------------------------------
     @GetMapping("/aena/carga/anos/{ano}")
     public ResponseEntity<?> getAenaCargaPorAno(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/carga/anos/%s_aena_carga.json", ano);
-        return loadJsonResponse(filePath);
-    }
-
-    @GetMapping("/aena/carga/embarque/{ano}")
-    public ResponseEntity<?> getAenaCargaEmbarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/carga/embarque_desembarque/embarque/%s_aena_carga_embarque.json", ano);
-        return loadJsonResponse(filePath);
-    }
-
-    @GetMapping("/aena/carga/desembarque/{ano}")
-    public ResponseEntity<?> getAenaCargaDesembarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/carga/embarque_desembarque/desembarque/%s_aena_carga_desembarque.json", ano);
+        String filePath = String.format("data-json-gz/aeroporto/aena/carga/anos/%s_aena_carga.json.gz", ano);
         return loadJsonResponse(filePath);
     }
 
@@ -57,40 +45,29 @@ public class AeroportoController {
     // -------------------------------------------
     @GetMapping("/aena/passageiro/anos/{ano}")
     public ResponseEntity<?> getAenaPassageiroPorAno(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/passageiro/anos/%s_aena_passageiros.json", ano);
+        String filePath = String.format("data-json-gz/aeroporto/aena/passageiro/anos/%s_aena_passageiros.json.gz", ano);
         return loadJsonResponse(filePath);
     }
 
-    @GetMapping("/aena/passageiro/embarque/{ano}")
-    public ResponseEntity<?> getAenaPassageiroEmbarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/passageiro/embarque_desembarque/embarque/%s_aena_passageiros_embarque.json", ano);
-        return loadJsonResponse(filePath);
-    }
-
-    @GetMapping("/aena/passageiro/desembarque/{ano}")
-    public ResponseEntity<?> getAenaPassageiroDesembarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/aena/passageiro/embarque_desembarque/desembarque/%s_aena_passageiros_desembarque.json", ano);
-        return loadJsonResponse(filePath);
-    }
 
     // -------------------------------------------
     //                 ANAC
     // -------------------------------------------
     @GetMapping("/anac/anos/{ano}")
     public ResponseEntity<?> getAnacResumoAnual(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/anac/anos/%s_resumo_anual.json", ano);
+        String filePath = String.format("data-json-gz/aeroporto/anac/anos/%s_resumo_anual.json.gz", ano);
         return loadJsonResponse(filePath);
     }
 
     @GetMapping("/anac/embarque/{ano}")
     public ResponseEntity<?> getAnacEmbarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/anac/embarque_desembarque/embarque/%s_embarque.json", ano);
+        String filePath = String.format("data-json-gz/aeroporto/anac/embarque_desembarque/embarque/%s_embarque.json.gz", ano);
         return loadJsonResponse(filePath);
     }
 
     @GetMapping("/anac/desembarque/{ano}")
     public ResponseEntity<?> getAnacDesembarque(@PathVariable String ano) {
-        String filePath = String.format("data-json/aeroporto/anac/embarque_desembarque/desembarque/%s_desembarque.json", ano);
+        String filePath = String.format("data-json-gz/aeroporto/anac/embarque_desembarque/desembarque/%s_desembarque.json.gz", ano);
         return loadJsonResponse(filePath);
     }
 }

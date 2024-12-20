@@ -25,7 +25,7 @@ public class BalancoComercialController {
     @GetMapping("/exportacao/{ano}")
     public ResponseEntity<?> getExportacaoPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/balanco_comercial/exportacao/anos/%s_exportacao_municipio.json", ano);
+            String filePath = String.format("data-json-gz/balanco_comercial/exportacao/anos/%s_exportacao_municipio.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -38,7 +38,7 @@ public class BalancoComercialController {
     @GetMapping("/importacao/{ano}")
     public ResponseEntity<?> getImportacaoPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/balanco_comercial/importacao/anos/%s_importacao_municipios.json", ano);
+            String filePath = String.format("data-json-gz/balanco_comercial/importacao/anos/%s_importacao_municipios.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -51,7 +51,7 @@ public class BalancoComercialController {
     @GetMapping("/geral/{ano}")
     public ResponseEntity<?> getDadosGeraisPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/balanco_comercial/geral/anos/%s_base_dados.json", ano);
+            String filePath = String.format("data-json-gz/balanco_comercial/geral/anos/%s_base_dados.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());

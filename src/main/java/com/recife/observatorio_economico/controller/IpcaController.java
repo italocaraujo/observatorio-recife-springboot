@@ -25,7 +25,7 @@ public class IpcaController {
     @GetMapping("/grupos/anos/{ano}")
     public ResponseEntity<?> getGruposPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ipca/grupos/anos/%s_grupos.json", ano);
+            String filePath = String.format("data-json-gz/ipca/grupos/anos/%s_grupos.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -38,7 +38,7 @@ public class IpcaController {
     @GetMapping("/indice_geral/anos/{ano}")
     public ResponseEntity<?> getIndiceGeralPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ipca/indice_geral/anos/%s_indice_geral.json", ano);
+            String filePath = String.format("data-json-gz/ipca/indice_geral/anos/%s_indice_geral.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -51,7 +51,7 @@ public class IpcaController {
     @GetMapping("/tabelas/anos/{ano}")
     public ResponseEntity<?> getTabelasPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ipca/tabelas.anos/%s_tabelas.json", ano);
+            String filePath = String.format("data-json-gz/ipca/tabelas.anos/%s_tabelas.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());

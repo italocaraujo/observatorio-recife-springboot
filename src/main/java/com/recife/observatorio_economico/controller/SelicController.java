@@ -26,7 +26,7 @@ public class SelicController {
     @GetMapping("/anos/{ano}")
     public ResponseEntity<?> getTaxaSelicPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/selic/anos/%s_taxa_selic.json", ano);
+            String filePath = String.format("data-json-gz/selic/anos/%s_taxa_selic.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());

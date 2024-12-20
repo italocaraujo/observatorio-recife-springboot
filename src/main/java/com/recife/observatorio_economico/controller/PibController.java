@@ -25,7 +25,7 @@ public class PibController {
     @GetMapping("/municipios/anos/{ano}")
     public ResponseEntity<?> getPibMunicipiosPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/pib/municipios/anos/%s_pib_municipios.json", ano);
+            String filePath = String.format("data-json-gz/pib/municipios/anos/%s_pib_municipios.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());

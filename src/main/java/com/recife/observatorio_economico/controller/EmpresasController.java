@@ -25,7 +25,7 @@ public class EmpresasController {
     @GetMapping("/por_municipio/dados_totais/anos/{ano}")
     public ResponseEntity<?> getPorMunicipioDadosTotais(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/empresas/por_municipio/dados_totais/anos/%s_empresas.json", ano);
+            String filePath = String.format("data-json-gz/empresas/por_municipio/dados_totais/anos/%s_empresas.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -35,7 +35,7 @@ public class EmpresasController {
     @GetMapping("/por_municipio/somente_com_baixas/anos/{ano}")
     public ResponseEntity<?> getPorMunicipioSomenteComBaixas(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/empresas/por_municipio/somente_com_baixas/anos/%s_empresas.json", ano);
+            String filePath = String.format("data-json-gz/empresas/por_municipio/somente_com_baixas/anos/%s_empresas.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -48,7 +48,7 @@ public class EmpresasController {
     @GetMapping("/recife/ativas/anos/{ano}")
     public ResponseEntity<?> getRecifeAtivasPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/empresas/recife/ativas/anos/%s_empresas.json", ano);
+            String filePath = String.format("data-json-gz/empresas/recife/ativas/anos/%s_empresas.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -58,7 +58,7 @@ public class EmpresasController {
     @GetMapping("/recife/inativas/2020-2024")
     public ResponseEntity<?> getRecifeInativas() {
         try {
-            String filePath = "data-json/empresas/recife/inativas/2020-2024/empresas.json";
+            String filePath = "data-json-gz/empresas/recife/inativas/2020-2024/empresas.json.gz";
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());

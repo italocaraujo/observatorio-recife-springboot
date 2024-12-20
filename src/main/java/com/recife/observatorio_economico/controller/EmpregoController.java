@@ -25,7 +25,7 @@ public class EmpregoController {
     @GetMapping("/anos/{ano}")
     public ResponseEntity<?> getEmpregadosPorAno(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/emprego/empregados/anos/%s_empregados.json", ano);
+            String filePath = String.format("data-json-gz/emprego/empregados/anos/%s_empregados.json.gz", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
