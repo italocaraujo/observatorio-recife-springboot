@@ -5,9 +5,10 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.io.IOException;
+import java.io.*;
 import java.util.List;
 import java.util.Map;
+import java.util.zip.GZIPInputStream;
 
 @RestController
 @RequestMapping("/api/v1/aeroporto")
@@ -15,9 +16,16 @@ public class AeroportoController {
 
     private final ObjectMapper objectMapper = new ObjectMapper();
 
-    // Função para ler arquivos JSON do classpath
-    private List<Map<String, Object>> readJsonFile(String path) throws IOException {
-        return objectMapper.readValue(new ClassPathResource(path).getInputStream(), List.class);
+    /**
+     * Método para ler e descompactar arquivos JSON.GZ.
+     */
+    private List<Map<String, Object>> readGzippedJsonFile(String path) throws IOException {
+        try (GZIPInputStream gzipInputStream = new GZIPInputStream(new ClassPathResource(path).getInputStream());
+             InputStreamReader reader = new InputStreamReader(gzipInputStream);
+             BufferedReader bufferedReader = new BufferedReader(reader)) {
+
+            return objectMapper.readValue(bufferedReader, List.class);
+        }
     }
 
     /**
@@ -25,9 +33,9 @@ public class AeroportoController {
      */
     private ResponseEntity<?> loadJsonResponse(String filePath) {
         try {
-            return ResponseEntity.ok(readJsonFile(filePath));
+            return ResponseEntity.ok(readGzippedJsonFile(filePath));
         } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
+            return ResponseEntity.status(404).body("Arquivo não encontrado ou erro ao descompactar: " + e.getMessage());
         }
     }
 
@@ -48,7 +56,6 @@ public class AeroportoController {
         String filePath = String.format("data-json-gz/aeroporto/aena/passageiro/anos/%s_aena_passageiros.json.gz", ano);
         return loadJsonResponse(filePath);
     }
-
 
     // -------------------------------------------
     //                 ANAC
