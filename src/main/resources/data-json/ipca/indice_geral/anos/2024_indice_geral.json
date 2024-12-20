@@ -1,1 +1,1311 @@
-[]
+[
+    {
+        "Capital": "Brasil",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.42,
+        "IPCA - Variação acumulado no ano(%)": 0.42,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.51
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 0.63,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.58
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 1.06,
+        "IPCA - Variação acumulado no ano(%)": 1.06,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.79
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.73,
+        "IPCA - Variação acumulado no ano(%)": 0.73,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.05
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.48,
+        "IPCA - Variação acumulado no ano(%)": 0.48,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.64
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.87,
+        "IPCA - Variação acumulado no ano(%)": 0.87,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.48
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": -0.36,
+        "IPCA - Variação acumulado no ano(%)": -0.36,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.78
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.75,
+        "IPCA - Variação acumulado no ano(%)": 0.75,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.18
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.68,
+        "IPCA - Variação acumulado no ano(%)": 0.68,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.69
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 0.63,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.79
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.13,
+        "IPCA - Variação acumulado no ano(%)": 0.13,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.49
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 1.1,
+        "IPCA - Variação acumulado no ano(%)": 1.1,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.34
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.37,
+        "IPCA - Variação acumulado no ano(%)": 0.37,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.53
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.44,
+        "IPCA - Variação acumulado no ano(%)": 0.44,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.3
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.25,
+        "IPCA - Variação acumulado no ano(%)": 0.25,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.51
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.39,
+        "IPCA - Variação acumulado no ano(%)": 0.39,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.63
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "janeiro 2024",
+        "IPCA - Variação mensal(%)": 0.13,
+        "IPCA - Variação acumulado no ano(%)": 0.13,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.53
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.83,
+        "IPCA - Variação acumulado no ano(%)": 1.25,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.5
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.26,
+        "IPCA - Variação acumulado no ano(%)": 0.89,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.39
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 1.06,
+        "IPCA - Variação acumulado no ano(%)": 2.13,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.21
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 1.09,
+        "IPCA - Variação acumulado no ano(%)": 1.83,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.27
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.81,
+        "IPCA - Variação acumulado no ano(%)": 1.3,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.92
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.51,
+        "IPCA - Variação acumulado no ano(%)": 1.39,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.13
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.75,
+        "IPCA - Variação acumulado no ano(%)": 0.39,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.06
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.69,
+        "IPCA - Variação acumulado no ano(%)": 1.44,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.99
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.84,
+        "IPCA - Variação acumulado no ano(%)": 1.53,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.8
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.74,
+        "IPCA - Variação acumulado no ano(%)": 1.37,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.53
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.96,
+        "IPCA - Variação acumulado no ano(%)": 1.1,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.65
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.82,
+        "IPCA - Variação acumulado no ano(%)": 1.93,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.35
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.7,
+        "IPCA - Variação acumulado no ano(%)": 1.07,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.3
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.88,
+        "IPCA - Variação acumulado no ano(%)": 1.32,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.54
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.93,
+        "IPCA - Variação acumulado no ano(%)": 1.18,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.52
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.84,
+        "IPCA - Variação acumulado no ano(%)": 1.23,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.38
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "fevereiro 2024",
+        "IPCA - Variação mensal(%)": 0.52,
+        "IPCA - Variação acumulado no ano(%)": 0.65,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.29
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.16,
+        "IPCA - Variação acumulado no ano(%)": 1.42,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.93
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.18,
+        "IPCA - Variação acumulado no ano(%)": 1.07,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.01
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.81,
+        "IPCA - Variação acumulado no ano(%)": 2.96,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.29
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.5,
+        "IPCA - Variação acumulado no ano(%)": 2.34,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.06
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.11,
+        "IPCA - Variação acumulado no ano(%)": 1.41,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.32
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.36,
+        "IPCA - Variação acumulado no ano(%)": 1.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.46
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.21,
+        "IPCA - Variação acumulado no ano(%)": 0.6,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.13
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.54,
+        "IPCA - Variação acumulado no ano(%)": 1.99,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.69
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.28,
+        "IPCA - Variação acumulado no ano(%)": 1.81,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.72
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.33,
+        "IPCA - Variação acumulado no ano(%)": 1.7,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.23
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.16,
+        "IPCA - Variação acumulado no ano(%)": 1.26,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.36
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.12,
+        "IPCA - Variação acumulado no ano(%)": 2.06,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.07
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.05,
+        "IPCA - Variação acumulado no ano(%)": 1.13,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.49
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.17,
+        "IPCA - Variação acumulado no ano(%)": 1.5,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.05
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.14,
+        "IPCA - Variação acumulado no ano(%)": 1.32,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.07
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": 0.03,
+        "IPCA - Variação acumulado no ano(%)": 1.26,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.35
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "março 2024",
+        "IPCA - Variação mensal(%)": -0.13,
+        "IPCA - Variação acumulado no ano(%)": 0.52,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.86
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.38,
+        "IPCA - Variação acumulado no ano(%)": 1.8,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.69
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.15,
+        "IPCA - Variação acumulado no ano(%)": 1.22,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.5
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.46,
+        "IPCA - Variação acumulado no ano(%)": 3.44,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.22
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.78,
+        "IPCA - Variação acumulado no ano(%)": 3.14,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.46
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.36,
+        "IPCA - Variação acumulado no ano(%)": 1.77,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.76
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.24,
+        "IPCA - Variação acumulado no ano(%)": 2.0,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.91
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.55,
+        "IPCA - Variação acumulado no ano(%)": 1.16,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.12
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.33,
+        "IPCA - Variação acumulado no ano(%)": 2.32,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.44
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": -0.15,
+        "IPCA - Variação acumulado no ano(%)": 1.66,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.99
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.55,
+        "IPCA - Variação acumulado no ano(%)": 2.26,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.63
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 1.9,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.49
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.45,
+        "IPCA - Variação acumulado no ano(%)": 2.51,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.91
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.43,
+        "IPCA - Variação acumulado no ano(%)": 1.57,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.61
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.15,
+        "IPCA - Variação acumulado no ano(%)": 1.65,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.33
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.35,
+        "IPCA - Variação acumulado no ano(%)": 1.68,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.74
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.37,
+        "IPCA - Variação acumulado no ano(%)": 1.63,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.13
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "abril 2024",
+        "IPCA - Variação mensal(%)": 0.64,
+        "IPCA - Variação acumulado no ano(%)": 1.16,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.02
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.46,
+        "IPCA - Variação acumulado no ano(%)": 2.27,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.93
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.19,
+        "IPCA - Variação acumulado no ano(%)": 1.4,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.4
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 4.09,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.27
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.6,
+        "IPCA - Variação acumulado no ano(%)": 3.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.73
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.42,
+        "IPCA - Variação acumulado no ano(%)": 2.19,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.88
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": -0.06,
+        "IPCA - Variação acumulado no ano(%)": 1.94,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.69
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.34,
+        "IPCA - Variação acumulado no ano(%)": 1.5,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.27
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.13,
+        "IPCA - Variação acumulado no ano(%)": 2.46,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.57
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.55,
+        "IPCA - Variação acumulado no ano(%)": 2.23,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.99
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.43,
+        "IPCA - Variação acumulado no ano(%)": 2.71,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.65
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.58,
+        "IPCA - Variação acumulado no ano(%)": 2.49,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.73
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 3.16,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.07
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.51,
+        "IPCA - Variação acumulado no ano(%)": 2.08,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.13
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.44,
+        "IPCA - Variação acumulado no ano(%)": 2.1,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.71
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.37,
+        "IPCA - Variação acumulado no ano(%)": 2.05,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.87
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.49,
+        "IPCA - Variação acumulado no ano(%)": 2.13,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.38
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "maio 2024",
+        "IPCA - Variação mensal(%)": 0.87,
+        "IPCA - Variação acumulado no ano(%)": 2.04,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.83
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.21,
+        "IPCA - Variação acumulado no ano(%)": 2.48,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.23
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.34,
+        "IPCA - Variação acumulado no ano(%)": 1.75,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.26
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.11,
+        "IPCA - Variação acumulado no ano(%)": 4.21,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.04
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.08,
+        "IPCA - Variação acumulado no ano(%)": 3.84,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.54
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.12,
+        "IPCA - Variação acumulado no ano(%)": 2.31,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.15
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.5,
+        "IPCA - Variação acumulado no ano(%)": 2.45,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.22
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.34,
+        "IPCA - Variação acumulado no ano(%)": 1.84,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.04
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.13,
+        "IPCA - Variação acumulado no ano(%)": 2.59,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.8
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.28,
+        "IPCA - Variação acumulado no ano(%)": 2.52,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.71
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": -0.09,
+        "IPCA - Variação acumulado no ano(%)": 2.61,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.26
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": -0.04,
+        "IPCA - Variação acumulado no ano(%)": 2.46,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.93
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.46,
+        "IPCA - Variação acumulado no ano(%)": 3.63,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.23
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.05,
+        "IPCA - Variação acumulado no ano(%)": 2.14,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.12
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.11,
+        "IPCA - Variação acumulado no ano(%)": 2.21,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.02
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.29,
+        "IPCA - Variação acumulado no ano(%)": 2.34,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.18
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": 0.25,
+        "IPCA - Variação acumulado no ano(%)": 2.39,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.61
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "junho 2024",
+        "IPCA - Variação mensal(%)": -0.14,
+        "IPCA - Variação acumulado no ano(%)": 1.91,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.71
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.38,
+        "IPCA - Variação acumulado no ano(%)": 2.87,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.5
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.53,
+        "IPCA - Variação acumulado no ano(%)": 2.28,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.49
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.53,
+        "IPCA - Variação acumulado no ano(%)": 4.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.53
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.18,
+        "IPCA - Variação acumulado no ano(%)": 4.03,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.46
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.29,
+        "IPCA - Variação acumulado no ano(%)": 2.6,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.57
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.43,
+        "IPCA - Variação acumulado no ano(%)": 2.89,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.5
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.36,
+        "IPCA - Variação acumulado no ano(%)": 2.21,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.06
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.39,
+        "IPCA - Variação acumulado no ano(%)": 2.98,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.94
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.47,
+        "IPCA - Variação acumulado no ano(%)": 3.0,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.02
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.33,
+        "IPCA - Variação acumulado no ano(%)": 2.95,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.19
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.18,
+        "IPCA - Variação acumulado no ano(%)": 2.65,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.86
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.26,
+        "IPCA - Variação acumulado no ano(%)": 3.91,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.67
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.25,
+        "IPCA - Variação acumulado no ano(%)": 2.39,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.34
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.28,
+        "IPCA - Variação acumulado no ano(%)": 2.5,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.28
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.52,
+        "IPCA - Variação acumulado no ano(%)": 2.88,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.74
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.3,
+        "IPCA - Variação acumulado no ano(%)": 2.69,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.63
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "julho 2024",
+        "IPCA - Variação mensal(%)": 0.36,
+        "IPCA - Variação acumulado no ano(%)": 2.28,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.53
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.02,
+        "IPCA - Variação acumulado no ano(%)": 2.85,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.24
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.21,
+        "IPCA - Variação acumulado no ano(%)": 2.07,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.82
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.54,
+        "IPCA - Variação acumulado no ano(%)": 4.2,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.51
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.33,
+        "IPCA - Variação acumulado no ano(%)": 3.68,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.76
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.03,
+        "IPCA - Variação acumulado no ano(%)": 2.64,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.33
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.51,
+        "IPCA - Variação acumulado no ano(%)": 2.37,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.84
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.17,
+        "IPCA - Variação acumulado no ano(%)": 2.38,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.53
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.4,
+        "IPCA - Variação acumulado no ano(%)": 2.58,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.87
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.0,
+        "IPCA - Variação acumulado no ano(%)": 3.0,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.25
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.07,
+        "IPCA - Variação acumulado no ano(%)": 2.88,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.75
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.03,
+        "IPCA - Variação acumulado no ano(%)": 2.68,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.71
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.13,
+        "IPCA - Variação acumulado no ano(%)": 4.04,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.89
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.14,
+        "IPCA - Variação acumulado no ano(%)": 2.54,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.16
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.08,
+        "IPCA - Variação acumulado no ano(%)": 2.42,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.24
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.1,
+        "IPCA - Variação acumulado no ano(%)": 2.98,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.61
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": -0.36,
+        "IPCA - Variação acumulado no ano(%)": 2.32,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.96
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "agosto 2024",
+        "IPCA - Variação mensal(%)": 0.18,
+        "IPCA - Variação acumulado no ano(%)": 2.46,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.47
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.44,
+        "IPCA - Variação acumulado no ano(%)": 3.31,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.42
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.75,
+        "IPCA - Variação acumulado no ano(%)": 2.83,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.11
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.6,
+        "IPCA - Variação acumulado no ano(%)": 4.82,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.62
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.07,
+        "IPCA - Variação acumulado no ano(%)": 3.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.75
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.58,
+        "IPCA - Variação acumulado no ano(%)": 3.23,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.45
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 1.08,
+        "IPCA - Variação acumulado no ano(%)": 3.47,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.08
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.26,
+        "IPCA - Variação acumulado no ano(%)": 2.65,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.5
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.18,
+        "IPCA - Variação acumulado no ano(%)": 2.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.6
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.3,
+        "IPCA - Variação acumulado no ano(%)": 3.31,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.42
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.17,
+        "IPCA - Variação acumulado no ano(%)": 3.05,
+        "IPCA - Variação acumulada em 12 meses(%)": 2.87
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.28,
+        "IPCA - Variação acumulado no ano(%)": 2.96,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.95
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.51,
+        "IPCA - Variação acumulado no ano(%)": 4.57,
+        "IPCA - Variação acumulada em 12 meses(%)": 6.17
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.49,
+        "IPCA - Variação acumulado no ano(%)": 3.04,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.23
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.53,
+        "IPCA - Variação acumulado no ano(%)": 2.96,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.6
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.36,
+        "IPCA - Variação acumulado no ano(%)": 3.35,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.59
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.77,
+        "IPCA - Variação acumulado no ano(%)": 3.12,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.52
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "setembro 2024",
+        "IPCA - Variação mensal(%)": 0.39,
+        "IPCA - Variação acumulado no ano(%)": 2.86,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.69
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.56,
+        "IPCA - Variação acumulado no ano(%)": 3.88,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.76
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.55,
+        "IPCA - Variação acumulado no ano(%)": 3.4,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.38
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.57,
+        "IPCA - Variação acumulado no ano(%)": 5.42,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.46
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.11,
+        "IPCA - Variação acumulado no ano(%)": 3.87,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.77
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.7,
+        "IPCA - Variação acumulado no ano(%)": 3.96,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.89
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.8,
+        "IPCA - Variação acumulado no ano(%)": 4.3,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.08
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.68,
+        "IPCA - Variação acumulado no ano(%)": 3.35,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.57
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.78,
+        "IPCA - Variação acumulado no ano(%)": 3.57,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.47
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.46,
+        "IPCA - Variação acumulado no ano(%)": 3.78,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.97
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.5,
+        "IPCA - Variação acumulado no ano(%)": 3.57,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.48
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.48,
+        "IPCA - Variação acumulado no ano(%)": 3.46,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.15
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.5,
+        "IPCA - Variação acumulado no ano(%)": 5.1,
+        "IPCA - Variação acumulada em 12 meses(%)": 6.23
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.5,
+        "IPCA - Variação acumulado no ano(%)": 3.56,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.57
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.6,
+        "IPCA - Variação acumulado no ano(%)": 3.58,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.84
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.67,
+        "IPCA - Variação acumulado no ano(%)": 4.05,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.05
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.42,
+        "IPCA - Variação acumulado no ano(%)": 3.55,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.78
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "outubro 2024",
+        "IPCA - Variação mensal(%)": 0.16,
+        "IPCA - Variação acumulado no ano(%)": 3.02,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.81
+    },
+    {
+        "Capital": "Brasil",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.39,
+        "IPCA - Variação acumulado no ano(%)": 4.29,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.87
+    },
+    {
+        "Capital": "Rio Branco",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.92,
+        "IPCA - Variação acumulado no ano(%)": 4.36,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.3
+    },
+    {
+        "Capital": "São Luís",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.33,
+        "IPCA - Variação acumulado no ano(%)": 5.76,
+        "IPCA - Variação acumulada em 12 meses(%)": 6.22
+    },
+    {
+        "Capital": "Aracaju",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.24,
+        "IPCA - Variação acumulado no ano(%)": 4.12,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.82
+    },
+    {
+        "Capital": "Campo Grande",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.63,
+        "IPCA - Variação acumulado no ano(%)": 4.61,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.06
+    },
+    {
+        "Capital": "Goiânia",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.41,
+        "IPCA - Variação acumulado no ano(%)": 4.72,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.18
+    },
+    {
+        "Capital": "Brasília",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.3,
+        "IPCA - Variação acumulado no ano(%)": 3.66,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.47
+    },
+    {
+        "Capital": "Belém",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.46,
+        "IPCA - Variação acumulado no ano(%)": 4.04,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.8
+    },
+    {
+        "Capital": "Fortaleza",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.44,
+        "IPCA - Variação acumulado no ano(%)": 4.24,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.1
+    },
+    {
+        "Capital": "Recife",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.42,
+        "IPCA - Variação acumulado no ano(%)": 4.0,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.22
+    },
+    {
+        "Capital": "Salvador",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.28,
+        "IPCA - Variação acumulado no ano(%)": 3.75,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.62
+    },
+    {
+        "Capital": "Belo Horizonte",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.57,
+        "IPCA - Variação acumulado no ano(%)": 5.7,
+        "IPCA - Variação acumulada em 12 meses(%)": 6.54
+    },
+    {
+        "Capital": "Vitória",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.16,
+        "IPCA - Variação acumulado no ano(%)": 3.73,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.32
+    },
+    {
+        "Capital": "Rio de Janeiro",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.49,
+        "IPCA - Variação acumulado no ano(%)": 4.09,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.76
+    },
+    {
+        "Capital": "São Paulo",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.4,
+        "IPCA - Variação acumulado no ano(%)": 4.47,
+        "IPCA - Variação acumulada em 12 meses(%)": 5.04
+    },
+    {
+        "Capital": "Curitiba",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.39,
+        "IPCA - Variação acumulado no ano(%)": 3.95,
+        "IPCA - Variação acumulada em 12 meses(%)": 4.22
+    },
+    {
+        "Capital": "Porto Alegre",
+        "Mês": "novembro 2024",
+        "IPCA - Variação mensal(%)": 0.03,
+        "IPCA - Variação acumulado no ano(%)": 3.05,
+        "IPCA - Variação acumulada em 12 meses(%)": 3.49
+    }
+]
