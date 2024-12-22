@@ -1,90 +1,96 @@
 package com.recife.observatorio_economico.controller;
 
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.UrlResource;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import lombok.extern.slf4j.Slf4j;
-
 import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.util.List;
+import java.util.Map;
 
-@Slf4j
 @RestController
 @RequestMapping("/api/v1/aeroporto")
 public class AeroportoController {
 
-    private static final String BASE_PATH = "src/main/resources/data-json/aeroporto";
+    private final ObjectMapper objectMapper = new ObjectMapper();
+
+    // Função para ler arquivos JSON do classpath
+    private List<Map<String, Object>> readJsonFile(String path) throws IOException {
+        return objectMapper.readValue(new ClassPathResource(path).getInputStream(), List.class);
+    }
 
     /**
-     * Método para enviar arquivos JSON diretamente como resposta.
+     * Método genérico para carregar e retornar JSON de acordo com o caminho do arquivo.
      */
-    private ResponseEntity<Resource> sendJsonFile(String filePath) {
+    private ResponseEntity<?> loadJsonResponse(String filePath) {
         try {
-            // Resolve o caminho do arquivo
-            Path path = Paths.get(BASE_PATH).resolve(filePath).normalize();
-            Resource resource = new UrlResource(path.toUri());
-
-            // Verifica se o arquivo existe
-            if (!resource.exists()) {
-                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
-            }
-
-            // Configura os cabeçalhos
-            HttpHeaders headers = new HttpHeaders();
-            headers.add(HttpHeaders.CONTENT_TYPE, "application/json");
-
-            return ResponseEntity.ok()
-                    .headers(headers)
-                    .body(resource);
-
+            return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(null);
+            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
         }
     }
 
     // -------------------------------------------
-    //                 ENDPOINTS
+    //                 AENA - CARGA
     // -------------------------------------------
-
-    @GetMapping("/embarque-desembarque/{ano}")
-    public ResponseEntity<Resource> getEmbarqueDesembarque(@PathVariable String ano) {
-        String filePath = String.format("embarque_desembarque/%s.json", ano);
-        return sendJsonFile(filePath);
-    }
-
     @GetMapping("/aena/carga/anos/{ano}")
-    public ResponseEntity<Resource> getAenaCargaPorAno(@PathVariable String ano) {
-        String filePath = String.format("aena/carga/anos/%s_aena_carga.json", ano);
-        return sendJsonFile(filePath);
+    public ResponseEntity<?> getAenaCargaPorAno(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/carga/anos/%s_aena_carga.json", ano);
+        return loadJsonResponse(filePath);
     }
 
+    @GetMapping("/aena/carga/embarque/{ano}")
+    public ResponseEntity<?> getAenaCargaEmbarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/carga/embarque_desembarque/embarque/%s_aena_carga_embarque.json", ano);
+        return loadJsonResponse(filePath);
+    }
+
+    @GetMapping("/aena/carga/desembarque/{ano}")
+    public ResponseEntity<?> getAenaCargaDesembarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/carga/embarque_desembarque/desembarque/%s_aena_carga_desembarque.json", ano);
+        return loadJsonResponse(filePath);
+    }
+
+    // -------------------------------------------
+    //              AENA - PASSAGEIRO
+    // -------------------------------------------
     @GetMapping("/aena/passageiro/anos/{ano}")
-    public ResponseEntity<Resource> getAenaPassageiroPorAno(@PathVariable String ano) {
-        String filePath = String.format("aena/passageiro/anos/%s_aena_passageiros.json", ano);
-        return sendJsonFile(filePath);
+    public ResponseEntity<?> getAenaPassageiroPorAno(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/passageiro/anos/%s_aena_passageiros.json", ano);
+        return loadJsonResponse(filePath);
     }
 
-    @GetMapping("/anac/anos/{year}")
-    public ResponseEntity<Resource> getAnacByYear(@PathVariable String year) {
-        log.info("Endpoint /anac/anos/{} foi chamado", year);
-        String filePath = String.format("anac/anos/%s.json", year);
-        return sendJsonFile(filePath);
+    @GetMapping("/aena/passageiro/embarque/{ano}")
+    public ResponseEntity<?> getAenaPassageiroEmbarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/passageiro/embarque_desembarque/embarque/%s_aena_passageiros_embarque.json", ano);
+        return loadJsonResponse(filePath);
+    }
+
+    @GetMapping("/aena/passageiro/desembarque/{ano}")
+    public ResponseEntity<?> getAenaPassageiroDesembarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/aena/passageiro/embarque_desembarque/desembarque/%s_aena_passageiros_desembarque.json", ano);
+        return loadJsonResponse(filePath);
+    }
+
+    // -------------------------------------------
+    //                 ANAC
+    // -------------------------------------------
+    @GetMapping("/anac/anos/{ano}")
+    public ResponseEntity<?> getAnacResumoAnual(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/anac/anos/%s.json", ano);
+        return loadJsonResponse(filePath);
     }
 
     @GetMapping("/anac/embarque/{ano}")
-    public ResponseEntity<Resource> getAnacEmbarque(@PathVariable String ano) {
-        String filePath = String.format("anac/embarque_desembarque/embarque/%s_embarque.json", ano);
-        return sendJsonFile(filePath);
+    public ResponseEntity<?> getAnacEmbarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/anac/embarque_desembarque/embarque/%s_embarque.json", ano);
+        return loadJsonResponse(filePath);
     }
 
     @GetMapping("/anac/desembarque/{ano}")
-    public ResponseEntity<Resource> getAnacDesembarque(@PathVariable String ano) {
-        String filePath = String.format("anac/embarque_desembarque/desembarque/%s_desembarque.json", ano);
-        return sendJsonFile(filePath);
+    public ResponseEntity<?> getAnacDesembarque(@PathVariable String ano) {
+        String filePath = String.format("data-json/aeroporto/anac/embarque_desembarque/desembarque/%s_desembarque.json", ano);
+        return loadJsonResponse(filePath);
     }
 }
