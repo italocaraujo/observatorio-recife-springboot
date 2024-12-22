@@ -1,80 +1,90 @@
 package com.recife.observatorio_economico.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.UrlResource;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.io.*;
-import java.util.List;
-import java.util.Map;
-import java.util.zip.GZIPInputStream;
+import lombok.extern.slf4j.Slf4j;
 
+import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+@Slf4j
 @RestController
 @RequestMapping("/api/v1/aeroporto")
 public class AeroportoController {
 
-    private final ObjectMapper objectMapper = new ObjectMapper();
+    private static final String BASE_PATH = "src/main/resources/data-json/aeroporto";
 
     /**
-     * Método para ler e descompactar arquivos JSON.GZ.
+     * Método para enviar arquivos JSON diretamente como resposta.
      */
-    private List<Map<String, Object>> readGzippedJsonFile(String path) throws IOException {
-        try (GZIPInputStream gzipInputStream = new GZIPInputStream(new ClassPathResource(path).getInputStream());
-             InputStreamReader reader = new InputStreamReader(gzipInputStream);
-             BufferedReader bufferedReader = new BufferedReader(reader)) {
-
-            return objectMapper.readValue(bufferedReader, List.class);
-        }
-    }
-
-    /**
-     * Método genérico para carregar e retornar JSON de acordo com o caminho do arquivo.
-     */
-    private ResponseEntity<?> loadJsonResponse(String filePath) {
+    private ResponseEntity<Resource> sendJsonFile(String filePath) {
         try {
-            return ResponseEntity.ok(readGzippedJsonFile(filePath));
+            // Resolve o caminho do arquivo
+            Path path = Paths.get(BASE_PATH).resolve(filePath).normalize();
+            Resource resource = new UrlResource(path.toUri());
+
+            // Verifica se o arquivo existe
+            if (!resource.exists()) {
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+            }
+
+            // Configura os cabeçalhos
+            HttpHeaders headers = new HttpHeaders();
+            headers.add(HttpHeaders.CONTENT_TYPE, "application/json");
+
+            return ResponseEntity.ok()
+                    .headers(headers)
+                    .body(resource);
+
         } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado ou erro ao descompactar: " + e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(null);
         }
     }
 
     // -------------------------------------------
-    //                 AENA - CARGA
+    //                 ENDPOINTS
     // -------------------------------------------
+
+    @GetMapping("/embarque-desembarque/{ano}")
+    public ResponseEntity<Resource> getEmbarqueDesembarque(@PathVariable String ano) {
+        String filePath = String.format("embarque_desembarque/%s.json", ano);
+        return sendJsonFile(filePath);
+    }
+
     @GetMapping("/aena/carga/anos/{ano}")
-    public ResponseEntity<?> getAenaCargaPorAno(@PathVariable String ano) {
-        String filePath = String.format("data-json-gz/aeroporto/aena/carga/anos/%s_aena_carga.json.gz", ano);
-        return loadJsonResponse(filePath);
+    public ResponseEntity<Resource> getAenaCargaPorAno(@PathVariable String ano) {
+        String filePath = String.format("aena/carga/anos/%s_aena_carga.json", ano);
+        return sendJsonFile(filePath);
     }
 
-    // -------------------------------------------
-    //              AENA - PASSAGEIRO
-    // -------------------------------------------
     @GetMapping("/aena/passageiro/anos/{ano}")
-    public ResponseEntity<?> getAenaPassageiroPorAno(@PathVariable String ano) {
-        String filePath = String.format("data-json-gz/aeroporto/aena/passageiro/anos/%s_aena_passageiros.json.gz", ano);
-        return loadJsonResponse(filePath);
+    public ResponseEntity<Resource> getAenaPassageiroPorAno(@PathVariable String ano) {
+        String filePath = String.format("aena/passageiro/anos/%s_aena_passageiros.json", ano);
+        return sendJsonFile(filePath);
     }
 
-    // -------------------------------------------
-    //                 ANAC
-    // -------------------------------------------
-    @GetMapping("/anac/anos/{ano}")
-    public ResponseEntity<?> getAnacResumoAnual(@PathVariable String ano) {
-        String filePath = String.format("data-json-gz/aeroporto/anac/anos/%s_resumo_anual.json.gz", ano);
-        return loadJsonResponse(filePath);
+    @GetMapping("/anac/anos/{year}")
+    public ResponseEntity<Resource> getAnacByYear(@PathVariable String year) {
+        log.info("Endpoint /anac/anos/{} foi chamado", year);
+        String filePath = String.format("anac/anos/%s.json", year);
+        return sendJsonFile(filePath);
     }
 
     @GetMapping("/anac/embarque/{ano}")
-    public ResponseEntity<?> getAnacEmbarque(@PathVariable String ano) {
-        String filePath = String.format("data-json-gz/aeroporto/anac/embarque_desembarque/embarque/%s_embarque.json.gz", ano);
-        return loadJsonResponse(filePath);
+    public ResponseEntity<Resource> getAnacEmbarque(@PathVariable String ano) {
+        String filePath = String.format("anac/embarque_desembarque/embarque/%s_embarque.json", ano);
+        return sendJsonFile(filePath);
     }
 
     @GetMapping("/anac/desembarque/{ano}")
-    public ResponseEntity<?> getAnacDesembarque(@PathVariable String ano) {
-        String filePath = String.format("data-json-gz/aeroporto/anac/embarque_desembarque/desembarque/%s_desembarque.json.gz", ano);
-        return loadJsonResponse(filePath);
+    public ResponseEntity<Resource> getAnacDesembarque(@PathVariable String ano) {
+        String filePath = String.format("anac/embarque_desembarque/desembarque/%s_desembarque.json", ano);
+        return sendJsonFile(filePath);
     }
 }
