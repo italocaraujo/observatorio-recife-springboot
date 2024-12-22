@@ -23,7 +23,7 @@ public class SecurityConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000", "https://observatorio-recife.vercel.app", "http://192.168.1.57:3000") // Ajuste as origens
+                        .allowedOrigins("http://localhost:3000", "https://observatorio-recife.vercel.app", "https://observatorio-economico-recife.vercel.app") // Ajuste as origens
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowCredentials(true); // Permite envio de cookies/credenciais
             }
