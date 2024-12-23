@@ -1,48 +1,51 @@
 package com.recife.observatorio_economico;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.recife.observatorio_economico.model.IndicadorEconomico;
-import org.springframework.core.io.ClassPathResource;
+import com.recife.observatorio_economico.service.JsonService;
+import lombok.RequiredArgsConstructor;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class DataLoader {
+@RequiredArgsConstructor
+public class DataLoader implements CommandLineRunner {
+    private final JsonService jsonService;
+    private List<IndicadorEconomico> indicadores = new ArrayList<>();
 
-    private List<IndicadorEconomico> indicadores;
-
-    public DataLoader() {
-        this.indicadores = new ArrayList<>();
+    @Override
+    public void run(String... args) {
+        carregarDados();
     }
 
-    // Método para carregar os dados dos arquivos JSON
-    public void carregarDados() throws IOException {
-        ObjectMapper mapper = new ObjectMapper();
+    public void carregarDados() {
+        try {
+            String basePath = "data-json";
+            File dataJsonFolder = new File(
+                getClass().getClassLoader().getResource(basePath).getFile()
+            );
+            
+            if (dataJsonFolder.exists() && dataJsonFolder.isDirectory()) {
+                processarPasta(dataJsonFolder, basePath);
+            }
+        } catch (Exception e) {
+            throw new RuntimeException("Erro ao carregar dados: " + e.getMessage(), e);
+        }
+    }
 
-        // Caminho da pasta `data-json` dentro do classpath
-        ClassPathResource resource = new ClassPathResource("data-json");
-        File dataJsonFolder = resource.getFile();
-        File[] categorias = dataJsonFolder.listFiles();
-
-        // Verifica se existem subpastas dentro de `data-json`
-        if (categorias != null) {
-            for (File categoria : categorias) {
-                if (categoria.isDirectory()) {
-                    // Para cada subpasta, carrega os arquivos JSON
-                    File[] arquivos = categoria.listFiles((dir, name) -> name.endsWith(".json"));
-                    if (arquivos != null) {
-                        for (File arquivo : arquivos) {
-                            // Processa cada arquivo JSON
-                            List<IndicadorEconomico> dados = mapper.readValue(arquivo, new TypeReference<>() {});
-                            indicadores.addAll(dados); // Adiciona os dados à lista
-                            System.out.println("Dados do arquivo " + arquivo.getName() + " na categoria " + categoria.getName() + " carregados.");
-                        }
-                    }
+    private void processarPasta(File pasta, String basePath) {
+        File[] arquivos = pasta.listFiles();
+        if (arquivos != null) {
+            for (File arquivo : arquivos) {
+                if (arquivo.isDirectory()) {
+                    processarPasta(arquivo, basePath + "/" + arquivo.getName());
+                } else if (arquivo.getName().endsWith(".json")) {
+                    String path = basePath + "/" + arquivo.getName();
+                    List<IndicadorEconomico> dados = jsonService.readJsonFile(path, IndicadorEconomico.class);
+                    indicadores.addAll(dados);
                 }
             }
         }

@@ -23,21 +23,24 @@ public class SecurityConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000", "https://observatorio-recife.vercel.app", "https://observatorio-economico-recife.vercel.app") // Ajuste as origens
+                        .allowedOrigins(
+                            "http://localhost:3000", 
+                            "https://observatorio-recife.vercel.app", 
+                            "https://observatorio-economico-recife.vercel.app"
+                        )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
-                        .allowCredentials(true); // Permite envio de cookies/credenciais
+                        .allowCredentials(true);
             }
         };
     }
 
     @Bean
     public UserDetailsService userDetailsService() {
-        // Usuário em memória para testes e desenvolvimento
-        User.UserBuilder users = User.withUsername("italo");
         return new InMemoryUserDetailsManager(
-                users.password(passwordEncoder().encode("observatorio"))
-                        .roles("USER")
-                        .build()
+                User.withUsername("italo")
+                    .password(passwordEncoder().encode("observatorio"))
+                    .roles("USER")
+                    .build()
         );
     }
 
@@ -49,14 +52,14 @@ public class SecurityConfig {
     @Bean
     public SecurityFilterChain security(HttpSecurity http) throws Exception {
         http
-                .cors(withDefaults()) // Ativa CORS conforme configurado no WebMvcConfigurer
-                .csrf(csrf -> csrf.disable()) // Desativa CSRF para APIs REST
+                .cors(withDefaults())
+                .csrf(csrf -> csrf.disable())
                 .authorizeHttpRequests(authorizeRequests ->
                         authorizeRequests
-                                .requestMatchers("/api/v1/aeroporto/**").authenticated() // Protege endpoints do aeroporto
-                                .anyRequest().permitAll() // Outros endpoints públicos
+                                .requestMatchers("/api/v1/aeroporto/**").authenticated()
+                                .anyRequest().permitAll()
                 )
-                .httpBasic(withDefaults()); // Configuração de autenticação básica
+                .httpBasic(withDefaults());
 
         return http.build();
     }
