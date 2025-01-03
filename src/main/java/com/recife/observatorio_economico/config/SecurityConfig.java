@@ -26,7 +26,8 @@ public class SecurityConfig {
                         .allowedOrigins(
                             "http://localhost:3000", 
                             "https://observatorio-recife.vercel.app", 
-                            "https://observatorio-economico-recife.vercel.app"
+                            "https://observatorio-economico-recife.vercel.app",
+                            "http://192.168.244.57:3000"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowCredentials(true);
