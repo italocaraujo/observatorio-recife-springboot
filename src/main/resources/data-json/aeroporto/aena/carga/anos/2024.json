@@ -1,0 +1,1586 @@
+[
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "536",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "61",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "285",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "42",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1296",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "3",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "213",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1273",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "12",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "330",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1884",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "39",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "322",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "6739",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "206",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-11-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4012",
+    "Mês": "11",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "646",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "60",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "276",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "38",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1243",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "199",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1373",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "11",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "329",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1916",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "36",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "308",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7255",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "214",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-10-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "5165",
+    "Mês": "10",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "590",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "49",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "447",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "43",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1408",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "155",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1577",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "11",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "240",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "2578",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "51",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "303",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "8332",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "190",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-01-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4356",
+    "Mês": "01",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "540",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "55",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "406",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "44",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "997",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "178",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1220",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "9",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "235",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1926",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "52",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "276",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7132",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "166",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-02-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4381",
+    "Mês": "02",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "368",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "221",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "57",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "342",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "56",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "40",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "755",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "459",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "194",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "823",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "315",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "295",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1416",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "391",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "295",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "6438",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "840",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-03-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4925",
+    "Mês": "03",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "583",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "47",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "455",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "45",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1112",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "179",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1123",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "10",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "295",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1756",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "34",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "259",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7348",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "140",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-04-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4734",
+    "Mês": "04",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "522",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "95",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "527",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "65",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1141",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "180",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1170",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "10",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "278",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1830",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "37",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "243",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7487",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "134",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-05-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4635",
+    "Mês": "05",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "693",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "67",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "817",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "41",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1099",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "181",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1176",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "12",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "309",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1839",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "39",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "241",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7258",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "184",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-06-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4341",
+    "Mês": "06",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "920",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "67",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "588",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "57",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1290",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "196",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1458",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "12",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "340",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "2283",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "43",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "294",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7919",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "208",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-07-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4601",
+    "Mês": "07",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "617",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "65",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "350",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "52",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1308",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "197",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1322",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "12",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "442",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "2033",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "47",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "298",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7627",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "240",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-08-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4633",
+    "Mês": "08",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "634",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "0",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Juazeiro do Norte",
+    "Quantidade": "55",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "320",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "0",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Campina Grande",
+    "Quantidade": "50",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "1240",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "0",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Aracaju",
+    "Quantidade": "203",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "1251",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "13",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "João Pessoa",
+    "Quantidade": "287",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Maceió",
+    "Quantidade": "1910",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Maceió",
+    "Quantidade": "41",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Maceió",
+    "Quantidade": "276",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Doméstico",
+    "Aeroporto": "Recife",
+    "Quantidade": "7406",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Internacional",
+    "Aeroporto": "Recife",
+    "Quantidade": "210",
+    "Mês": "09",
+    "Ano": "2024"
+  },
+  {
+    "Data": "01-09-2024",
+    "Tipo": "Carga(TON)",
+    "Aeroporto": "Recife",
+    "Quantidade": "4711",
+    "Mês": "09",
+    "Ano": "2024"
+  }
+]

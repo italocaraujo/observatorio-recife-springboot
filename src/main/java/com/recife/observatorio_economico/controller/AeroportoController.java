@@ -30,32 +30,14 @@ public class AeroportoController {
     
     @GetMapping("/aena/carga/anos/{ano}")
     public ResponseEntity<?> getAenaCargaPorAno(@PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/aena/carga/anos/%s_aena_carga.json", 
+        return loadJsonResponse(String.format("%s/aena/carga/anos/%s.json", 
             BASE_PATH, ano));
-    }
-    
-    @GetMapping("/aena/carga/{tipo}/{ano}")
-    public ResponseEntity<?> getAenaCargaEmbarqueDesembarque(
-            @PathVariable String tipo,
-            @PathVariable String ano) {
-        return loadJsonResponse(String.format(
-            "%s/aena/carga/embarque_desembarque/%s/%s_aena_carga_%s.json",
-            BASE_PATH, tipo, ano, tipo));
     }
     
     @GetMapping("/aena/passageiro/anos/{ano}")
     public ResponseEntity<?> getAenaPassageiroPorAno(@PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/aena/passageiro/anos/%s_aena_passageiros.json", 
+        return loadJsonResponse(String.format("%s/aena/passageiro/anos/%s.json", 
             BASE_PATH, ano));
-    }
-    
-    @GetMapping("/aena/passageiro/{tipo}/{ano}")
-    public ResponseEntity<?> getAenaPassageiroEmbarqueDesembarque(
-            @PathVariable String tipo,
-            @PathVariable String ano) {
-        return loadJsonResponse(String.format(
-            "%s/aena/passageiro/embarque_desembarque/%s/%s_aena_passageiros_%s.json",
-            BASE_PATH, tipo, ano, tipo));
     }
     
     @GetMapping("/anac/anos/{ano}")
@@ -64,11 +46,4 @@ public class AeroportoController {
             BASE_PATH, ano));
     }
     
-    @GetMapping("/anac/{tipo}/{ano}")
-    public ResponseEntity<?> getAnacEmbarqueDesembarque(
-            @PathVariable String tipo,
-            @PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/anac/%s/%s_%s.json",
-            BASE_PATH, tipo, ano, tipo));
-    }
 }
