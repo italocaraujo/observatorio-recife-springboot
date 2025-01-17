@@ -26,7 +26,7 @@ public class RankingController {
     @GetMapping("/dimensao/anos/{ano}")
     public ResponseEntity<?> getRankingDimensao(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ranking/dimensao/anos/%s_ranking_dimensao.json", ano);
+            String filePath = String.format("data-json/ranking/dimensao/anos/%s.json", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -39,7 +39,7 @@ public class RankingController {
     @GetMapping("/geral/anos/{ano}")
     public ResponseEntity<?> getRankingGeral(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ranking/geral/anos/%s_ranking_geral.json", ano);
+            String filePath = String.format("data-json/ranking/geral/anos/%s.json", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -52,7 +52,7 @@ public class RankingController {
     @GetMapping("/indicador/anos/{ano}")
     public ResponseEntity<?> getRankingIndicador(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ranking/indicador/anos/%s_ranking_indicador.json", ano);
+            String filePath = String.format("data-json/ranking/indicador/anos/%s.json", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
@@ -65,7 +65,7 @@ public class RankingController {
     @GetMapping("/pilares/anos/{ano}")
     public ResponseEntity<?> getRankingPilares(@PathVariable String ano) {
         try {
-            String filePath = String.format("data-json/ranking/pilares/anos/%s_ranking_pilares.json", ano);
+            String filePath = String.format("data-json/ranking/pilares/anos/%s.json", ano);
             return ResponseEntity.ok(readJsonFile(filePath));
         } catch (IOException e) {
             return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
