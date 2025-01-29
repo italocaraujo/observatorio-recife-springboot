@@ -30,19 +30,19 @@ public class AeroportoController {
     
     @GetMapping("/aena/carga/anos/{ano}")
     public ResponseEntity<?> getAenaCargaPorAno(@PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/aena/carga/anos/%s.json", 
+        return loadJsonResponse(String.format("%s/aena/carga/anos/%s.json.gz", 
             BASE_PATH, ano));
     }
     
     @GetMapping("/aena/passageiro/anos/{ano}")
     public ResponseEntity<?> getAenaPassageiroPorAno(@PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/aena/passageiro/anos/%s.json", 
+        return loadJsonResponse(String.format("%s/aena/passageiro/anos/%s.json.gz", 
             BASE_PATH, ano));
     }
     
     @GetMapping("/anac/anos/{ano}")
     public ResponseEntity<?> getAnacResumoAnual(@PathVariable String ano) {
-        return loadJsonResponse(String.format("%s/anac/anos/%s.json", 
+        return loadJsonResponse(String.format("%s/anac/anos/%s.json.gz", 
             BASE_PATH, ano));
     }
     

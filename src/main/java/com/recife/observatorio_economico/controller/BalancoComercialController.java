@@ -23,7 +23,7 @@ public class BalancoComercialController {
     @GetMapping("/geral/{ano}")
     public ResponseEntity<List<Map<String, Object>>> getDadosGeraisPorAno(@PathVariable String ano) {
         log.info("Fetching general data for year: {}", ano);
-        String filePath = String.format("data-json/balanco_comercial/geral/anos/%s.json", ano);
+        String filePath = String.format("data-json/balanco_comercial/geral/anos/%s.json.gz", ano);
         return ResponseEntity.ok(jsonService.readJsonFile(filePath));
     }
 }
