@@ -17,12 +17,13 @@ import static org.springframework.security.config.Customizer.withDefaults;
 @Configuration
 public class SecurityConfig {
 
+    // Configuração CORS Genérica
     @Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/**")
+                registry.addMapping("/**") // Aceitar qualquer rota
                         .allowedOrigins(
                             "http://localhost:3000", 
                             "https://observatorio-recife.vercel.app", 
@@ -35,6 +36,7 @@ public class SecurityConfig {
         };
     }
 
+    // Configuração de Usuário Genérica (autenticação em memória)
     @Bean
     public UserDetailsService userDetailsService() {
         return new InMemoryUserDetailsManager(
@@ -45,22 +47,24 @@ public class SecurityConfig {
         );
     }
 
+    // Gerenciamento de senha
     @Bean
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
     }
 
+    // Segurança Genérica para todas as rotas /api/v1/**
     @Bean
     public SecurityFilterChain security(HttpSecurity http) throws Exception {
         http
-                .cors(withDefaults())
-                .csrf(csrf -> csrf.disable())
+                .cors(withDefaults())  // CORS habilitado
+                .csrf(csrf -> csrf.disable())  // Desabilitar CSRF para APIs REST
                 .authorizeHttpRequests(authorizeRequests ->
                         authorizeRequests
-                                .requestMatchers("/api/v1/aeroporto/**").authenticated()
-                                .anyRequest().permitAll()
+                                .requestMatchers("/api/v1/**").authenticated()  // Permitir autenticação para todas as rotas /api/v1/*
+                                .anyRequest().permitAll()  // Outras rotas sem restrição
                 )
-                .httpBasic(withDefaults());
+                .httpBasic(withDefaults());  // Autenticação básica
 
         return http.build();
     }
