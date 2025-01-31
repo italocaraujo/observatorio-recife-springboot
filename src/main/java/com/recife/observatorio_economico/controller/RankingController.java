@@ -1,23 +1,34 @@
 package com.recife.observatorio_economico.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.core.io.ClassPathResource;
+import com.recife.observatorio_economico.service.JsonService;
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
-
+@Slf4j
 @RestController
 @RequestMapping("/api/v1/ranking")
+@RequiredArgsConstructor
 public class RankingController {
+    private final JsonService jsonService;
+    private static final String BASE_PATH = "data-json/ranking";
 
-    private final ObjectMapper objectMapper = new ObjectMapper();
-
-    // Função para ler arquivos JSON do classpath
-    private List<Map<String, Object>> readJsonFile(String path) throws IOException {
-        return objectMapper.readValue(new ClassPathResource(path).getInputStream(), List.class);
+    /**
+     * Método auxiliar para carregar e retornar uma resposta JSON.
+     *
+     * @param filePath Caminho do arquivo JSON ou JSON.GZ.
+     * @return ResponseEntity com os dados do arquivo ou mensagem de erro.
+     */
+    private ResponseEntity<?> loadJsonResponse(String filePath) {
+        try {
+            log.debug("Carregando arquivo JSON: {}", filePath);
+            return ResponseEntity.ok(jsonService.readJsonFile(filePath));
+        } catch (RuntimeException e) {
+            log.error("Erro ao processar arquivo: {}", filePath, e);
+            return ResponseEntity.status(500)
+                    .body("Erro ao processar o arquivo: " + e.getMessage());
+        }
     }
 
     // -------------------------------------------
@@ -25,12 +36,8 @@ public class RankingController {
     // -------------------------------------------
     @GetMapping("/dimensao/anos/{ano}")
     public ResponseEntity<?> getRankingDimensao(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ranking/dimensao/anos/%s.json.gz", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        String filePath = String.format("%s/dimensao/anos/%s.json.gz", BASE_PATH, ano);
+        return loadJsonResponse(filePath);
     }
 
     // -------------------------------------------
@@ -38,12 +45,8 @@ public class RankingController {
     // -------------------------------------------
     @GetMapping("/geral/anos/{ano}")
     public ResponseEntity<?> getRankingGeral(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ranking/geral/anos/%s.json.gz", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        String filePath = String.format("%s/geral/anos/%s.json.gz", BASE_PATH, ano);
+        return loadJsonResponse(filePath);
     }
 
     // -------------------------------------------
@@ -51,12 +54,8 @@ public class RankingController {
     // -------------------------------------------
     @GetMapping("/indicador/anos/{ano}")
     public ResponseEntity<?> getRankingIndicador(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ranking/indicador/anos/%s.json.gz", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        String filePath = String.format("%s/indicador/anos/%s.json.gz", BASE_PATH, ano);
+        return loadJsonResponse(filePath);
     }
 
     // -------------------------------------------
@@ -64,11 +63,7 @@ public class RankingController {
     // -------------------------------------------
     @GetMapping("/pilares/anos/{ano}")
     public ResponseEntity<?> getRankingPilares(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ranking/pilares/anos/%s.json.gz", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        String filePath = String.format("%s/pilares/anos/%s.json.gz", BASE_PATH, ano);
+        return loadJsonResponse(filePath);
     }
 }
