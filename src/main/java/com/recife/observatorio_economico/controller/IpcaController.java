@@ -1,22 +1,31 @@
 package com.recife.observatorio_economico.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.core.io.ClassPathResource;
+import com.recife.observatorio_economico.service.JsonService;
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
-
 @RestController
 @RequestMapping("/api/v1/ipca")
+@RequiredArgsConstructor
+@Slf4j
 public class IpcaController {
 
-    private final ObjectMapper objectMapper = new ObjectMapper();
+    private final JsonService jsonService;
 
-    private List<Map<String, Object>> readJsonFile(String path) throws IOException {
-        return objectMapper.readValue(new ClassPathResource(path).getInputStream(), List.class);
+    private static final String BASE_PATH = "data-json/ipca";
+
+    // Método auxiliar para carregar e tratar respostas JSON
+    private ResponseEntity<?> loadJsonResponse(String filePath) {
+        try {
+            log.debug("Carregando arquivo JSON: {}", filePath);
+            return ResponseEntity.ok(jsonService.readJsonFile(filePath));
+        } catch (RuntimeException e) {
+            log.error("Erro ao processar arquivo: {}", filePath, e);
+            return ResponseEntity.status(500)
+                    .body("Erro ao processar o arquivo: " + e.getMessage());
+        }
     }
 
     // -------------------------------------------
@@ -24,37 +33,22 @@ public class IpcaController {
     // -------------------------------------------
     @GetMapping("/grupos/anos/{ano}")
     public ResponseEntity<?> getGruposPorAno(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ipca/grupos/anos/%s_grupos.json", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        return loadJsonResponse(String.format("%s/grupos/anos/%s.json.gz", BASE_PATH, ano));
     }
 
     // -------------------------------------------
-    //            ÍNDICE GERAL
+    //            GERAL
     // -------------------------------------------
-    @GetMapping("/indice_geral/anos/{ano}")
+    @GetMapping("/geral/anos/{ano}")
     public ResponseEntity<?> getIndiceGeralPorAno(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ipca/indice_geral/anos/%s_indice_geral.json", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+        return loadJsonResponse(String.format("%s/geral/anos/%s.json.gz", BASE_PATH, ano));
     }
 
     // -------------------------------------------
-    //                 TABELAS
+    //                 ANALITICO
     // -------------------------------------------
-    @GetMapping("/tabelas/anos/{ano}")
-    public ResponseEntity<?> getTabelasPorAno(@PathVariable String ano) {
-        try {
-            String filePath = String.format("data-json/ipca/tabelas.anos/%s_tabelas.json", ano);
-            return ResponseEntity.ok(readJsonFile(filePath));
-        } catch (IOException e) {
-            return ResponseEntity.status(404).body("Arquivo não encontrado: " + e.getMessage());
-        }
+    @GetMapping("/analitico/anos/{ano}")
+    public ResponseEntity<?> getAnaliticoPorAno(@PathVariable String ano) {
+        return loadJsonResponse(String.format("%s/analitico/anos/%s.json.gz", BASE_PATH, ano));
     }
 }
