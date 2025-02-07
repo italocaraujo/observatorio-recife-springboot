@@ -98,4 +98,9 @@ public class PortoController {
     public ResponseEntity<?> getMercadoriaDictionary() {
         return loadResponse(String.format("%s/dictionaries/mercadoria/mercadoria.json", BASE_PATH), false);
     }
+
+    @GetMapping("/charts/operacao_portos/{ano}")
+    public ResponseEntity<?> getChartOperacaoPortos(@PathVariable String ano) {
+        return loadResponse(String.format("%s/charts/operacao_portos/anos/%s.json", BASE_PATH, ano), false);
+    }
 }
