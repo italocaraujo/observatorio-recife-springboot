@@ -103,4 +103,9 @@ public class PortoController {
     public ResponseEntity<?> getChartOperacaoPortos(@PathVariable String ano) {
         return loadResponse(String.format("%s/charts/operacao_portos/anos/%s.json", BASE_PATH, ano), false);
     }
+
+    @GetMapping("/charts/coords/{ano}")
+    public ResponseEntity<?> getCoordsPortos(@PathVariable String ano) {
+        return loadResponse(String.format("%s/charts/coords/anos/%s.json", BASE_PATH, ano), false);
+    }
 }
